@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendário de Jogos</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Calendário de Jogos</h1>
+    <div class="text-center">
+        <a href="{{ url_for('index') }}" class="btn btn-primary">Voltar para a página inicial</a>
+    </div>
+    <table border="2">
+        <tr>
+            <th>Rodada</th>
+            <th>Time Casa</th>
+            <th>Time Fora</th>
+            <th>Placar</th>
+            <th>Editar</th>
+        </tr>
+        {% for rodada_idx, jogos in enumerate(rodadas, start=1) %}
+            {% for jogo in jogos %}
+            <tr>
+                <td>{{ rodada_idx }}</td>
+                <td>{{ jogo[0] }}</td>
+                <td>{{ jogo[1] }}</td>
+                <td>{{ jogo[2] }} - {{ jogo[3] }}</td>
+                <td>
+                    <form action="{{ url_for('editar_resultado') }}" method="POST">
+                        <input type="hidden" name="rodada" value="{{ rodada_idx }}">
+                        <input type="hidden" name="time_casa" value="{{ jogo[0] }}">
+                        <input type="hidden" name="time_fora" value="{{ jogo[1] }}">
+                        <input type="text" name="placar_casa" value="{{ jogo[2] }}" size="2">
+                        <input type="text" name="placar_fora" value="{{ jogo[3] }}" size="2">
+                        <button type="submit">Salvar</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        {% endfor %}
+    </table>
+    <br>
+</body>
+</html>
