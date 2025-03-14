@@ -1,0 +1,380 @@
+Rodada 1: Houston Rockets x Chicago Bulls - x x
+Rodada 1: San Antonio Spurs x Boston Celtics - x x
+Rodada 1: Sacramento Kings x New Orleans Pelicans - x x
+Rodada 1: New York Knicks x Cleveland Cavaliers - x x
+Rodada 1: Toronto Raptors x Miami Heat - x x
+Rodada 1: Minnesota Timberwolves x Memphis Grizzlies - x x
+Rodada 1: Milwaukee Bucks x Denver Nuggets - x x
+Rodada 1: Los Angeles Lakers x Golden State Warriors - x x
+Rodada 1: Philadelphia 76ers x Phoenix Suns - x x
+Rodada 1: Detroit Pistons x Orlando Magic - x x
+Rodada 2: Houston Rockets x Boston Celtics - x x
+Rodada 2: Chicago Bulls x New Orleans Pelicans - x x
+Rodada 2: San Antonio Spurs x Cleveland Cavaliers - x x
+Rodada 2: Sacramento Kings x Miami Heat - x x
+Rodada 2: New York Knicks x Memphis Grizzlies - x x
+Rodada 2: Toronto Raptors x Denver Nuggets - x x
+Rodada 2: Minnesota Timberwolves x Golden State Warriors - x x
+Rodada 2: Milwaukee Bucks x Phoenix Suns - x x
+Rodada 2: Los Angeles Lakers x Orlando Magic - x x
+Rodada 2: Philadelphia 76ers x Detroit Pistons - x x
+Rodada 3: Houston Rockets x New Orleans Pelicans - x x
+Rodada 3: Boston Celtics x Cleveland Cavaliers - x x
+Rodada 3: Chicago Bulls x Miami Heat - x x
+Rodada 3: San Antonio Spurs x Memphis Grizzlies - x x
+Rodada 3: Sacramento Kings x Denver Nuggets - x x
+Rodada 3: New York Knicks x Golden State Warriors - x x
+Rodada 3: Toronto Raptors x Phoenix Suns - x x
+Rodada 3: Minnesota Timberwolves x Orlando Magic - x x
+Rodada 3: Milwaukee Bucks x Detroit Pistons - x x
+Rodada 3: Los Angeles Lakers x Philadelphia 76ers - x x
+Rodada 4: Houston Rockets x Cleveland Cavaliers - x x
+Rodada 4: New Orleans Pelicans x Miami Heat - x x
+Rodada 4: Boston Celtics x Memphis Grizzlies - x x
+Rodada 4: Chicago Bulls x Denver Nuggets - x x
+Rodada 4: San Antonio Spurs x Golden State Warriors - x x
+Rodada 4: Sacramento Kings x Phoenix Suns - x x
+Rodada 4: New York Knicks x Orlando Magic - x x
+Rodada 4: Toronto Raptors x Detroit Pistons - x x
+Rodada 4: Minnesota Timberwolves x Philadelphia 76ers - x x
+Rodada 4: Milwaukee Bucks x Los Angeles Lakers - x x
+Rodada 5: Houston Rockets x Miami Heat - x x
+Rodada 5: Cleveland Cavaliers x Memphis Grizzlies - x x
+Rodada 5: New Orleans Pelicans x Denver Nuggets - x x
+Rodada 5: Boston Celtics x Golden State Warriors - x x
+Rodada 5: Chicago Bulls x Phoenix Suns - x x
+Rodada 5: San Antonio Spurs x Orlando Magic - x x
+Rodada 5: Sacramento Kings x Detroit Pistons - x x
+Rodada 5: New York Knicks x Philadelphia 76ers - x x
+Rodada 5: Toronto Raptors x Los Angeles Lakers - x x
+Rodada 5: Minnesota Timberwolves x Milwaukee Bucks - x x
+Rodada 6: Houston Rockets x Memphis Grizzlies - x x
+Rodada 6: Miami Heat x Denver Nuggets - x x
+Rodada 6: Cleveland Cavaliers x Golden State Warriors - x x
+Rodada 6: New Orleans Pelicans x Phoenix Suns - x x
+Rodada 6: Boston Celtics x Orlando Magic - x x
+Rodada 6: Chicago Bulls x Detroit Pistons - x x
+Rodada 6: San Antonio Spurs x Philadelphia 76ers - x x
+Rodada 6: Sacramento Kings x Los Angeles Lakers - x x
+Rodada 6: New York Knicks x Milwaukee Bucks - x x
+Rodada 6: Toronto Raptors x Minnesota Timberwolves - x x
+Rodada 7: Houston Rockets x Denver Nuggets - x x
+Rodada 7: Memphis Grizzlies x Golden State Warriors - x x
+Rodada 7: Miami Heat x Phoenix Suns - x x
+Rodada 7: Cleveland Cavaliers x Orlando Magic - x x
+Rodada 7: New Orleans Pelicans x Detroit Pistons - x x
+Rodada 7: Boston Celtics x Philadelphia 76ers - x x
+Rodada 7: Chicago Bulls x Los Angeles Lakers - x x
+Rodada 7: San Antonio Spurs x Milwaukee Bucks - x x
+Rodada 7: Sacramento Kings x Minnesota Timberwolves - x x
+Rodada 7: New York Knicks x Toronto Raptors - x x
+Rodada 8: Houston Rockets x Golden State Warriors - x x
+Rodada 8: Denver Nuggets x Phoenix Suns - x x
+Rodada 8: Memphis Grizzlies x Orlando Magic - x x
+Rodada 8: Miami Heat x Detroit Pistons - x x
+Rodada 8: Cleveland Cavaliers x Philadelphia 76ers - x x
+Rodada 8: New Orleans Pelicans x Los Angeles Lakers - x x
+Rodada 8: Boston Celtics x Milwaukee Bucks - x x
+Rodada 8: Chicago Bulls x Minnesota Timberwolves - x x
+Rodada 8: San Antonio Spurs x Toronto Raptors - x x
+Rodada 8: Sacramento Kings x New York Knicks - x x
+Rodada 9: Houston Rockets x Phoenix Suns - x x
+Rodada 9: Golden State Warriors x Orlando Magic - x x
+Rodada 9: Denver Nuggets x Detroit Pistons - x x
+Rodada 9: Memphis Grizzlies x Philadelphia 76ers - x x
+Rodada 9: Miami Heat x Los Angeles Lakers - x x
+Rodada 9: Cleveland Cavaliers x Milwaukee Bucks - x x
+Rodada 9: New Orleans Pelicans x Minnesota Timberwolves - x x
+Rodada 9: Boston Celtics x Toronto Raptors - x x
+Rodada 9: Chicago Bulls x New York Knicks - x x
+Rodada 9: San Antonio Spurs x Sacramento Kings - x x
+Rodada 10: Houston Rockets x Orlando Magic - x x
+Rodada 10: Phoenix Suns x Detroit Pistons - x x
+Rodada 10: Golden State Warriors x Philadelphia 76ers - x x
+Rodada 10: Denver Nuggets x Los Angeles Lakers - x x
+Rodada 10: Memphis Grizzlies x Milwaukee Bucks - x x
+Rodada 10: Miami Heat x Minnesota Timberwolves - x x
+Rodada 10: Cleveland Cavaliers x Toronto Raptors - x x
+Rodada 10: New Orleans Pelicans x New York Knicks - x x
+Rodada 10: Boston Celtics x Sacramento Kings - x x
+Rodada 10: Chicago Bulls x San Antonio Spurs - x x
+Rodada 11: Houston Rockets x Detroit Pistons - x x
+Rodada 11: Orlando Magic x Philadelphia 76ers - x x
+Rodada 11: Phoenix Suns x Los Angeles Lakers - x x
+Rodada 11: Golden State Warriors x Milwaukee Bucks - x x
+Rodada 11: Denver Nuggets x Minnesota Timberwolves - x x
+Rodada 11: Memphis Grizzlies x Toronto Raptors - x x
+Rodada 11: Miami Heat x New York Knicks - x x
+Rodada 11: Cleveland Cavaliers x Sacramento Kings - x x
+Rodada 11: New Orleans Pelicans x San Antonio Spurs - x x
+Rodada 11: Boston Celtics x Chicago Bulls - x x
+Rodada 12: Houston Rockets x Philadelphia 76ers - x x
+Rodada 12: Detroit Pistons x Los Angeles Lakers - x x
+Rodada 12: Orlando Magic x Milwaukee Bucks - x x
+Rodada 12: Phoenix Suns x Minnesota Timberwolves - x x
+Rodada 12: Golden State Warriors x Toronto Raptors - x x
+Rodada 12: Denver Nuggets x New York Knicks - x x
+Rodada 12: Memphis Grizzlies x Sacramento Kings - x x
+Rodada 12: Miami Heat x San Antonio Spurs - x x
+Rodada 12: Cleveland Cavaliers x Chicago Bulls - x x
+Rodada 12: New Orleans Pelicans x Boston Celtics - x x
+Rodada 13: Houston Rockets x Los Angeles Lakers - x x
+Rodada 13: Philadelphia 76ers x Milwaukee Bucks - x x
+Rodada 13: Detroit Pistons x Minnesota Timberwolves - x x
+Rodada 13: Orlando Magic x Toronto Raptors - x x
+Rodada 13: Phoenix Suns x New York Knicks - x x
+Rodada 13: Golden State Warriors x Sacramento Kings - x x
+Rodada 13: Denver Nuggets x San Antonio Spurs - x x
+Rodada 13: Memphis Grizzlies x Chicago Bulls - x x
+Rodada 13: Miami Heat x Boston Celtics - x x
+Rodada 13: Cleveland Cavaliers x New Orleans Pelicans - x x
+Rodada 14: Houston Rockets x Milwaukee Bucks - x x
+Rodada 14: Los Angeles Lakers x Minnesota Timberwolves - x x
+Rodada 14: Philadelphia 76ers x Toronto Raptors - x x
+Rodada 14: Detroit Pistons x New York Knicks - x x
+Rodada 14: Orlando Magic x Sacramento Kings - x x
+Rodada 14: Phoenix Suns x San Antonio Spurs - x x
+Rodada 14: Golden State Warriors x Chicago Bulls - x x
+Rodada 14: Denver Nuggets x Boston Celtics - x x
+Rodada 14: Memphis Grizzlies x New Orleans Pelicans - x x
+Rodada 14: Miami Heat x Cleveland Cavaliers - x x
+Rodada 15: Houston Rockets x Minnesota Timberwolves - x x
+Rodada 15: Milwaukee Bucks x Toronto Raptors - x x
+Rodada 15: Los Angeles Lakers x New York Knicks - x x
+Rodada 15: Philadelphia 76ers x Sacramento Kings - x x
+Rodada 15: Detroit Pistons x San Antonio Spurs - x x
+Rodada 15: Orlando Magic x Chicago Bulls - x x
+Rodada 15: Phoenix Suns x Boston Celtics - x x
+Rodada 15: Golden State Warriors x New Orleans Pelicans - x x
+Rodada 15: Denver Nuggets x Cleveland Cavaliers - x x
+Rodada 15: Memphis Grizzlies x Miami Heat - x x
+Rodada 16: Houston Rockets x Toronto Raptors - x x
+Rodada 16: Minnesota Timberwolves x New York Knicks - x x
+Rodada 16: Milwaukee Bucks x Sacramento Kings - x x
+Rodada 16: Los Angeles Lakers x San Antonio Spurs - x x
+Rodada 16: Philadelphia 76ers x Chicago Bulls - x x
+Rodada 16: Detroit Pistons x Boston Celtics - x x
+Rodada 16: Orlando Magic x New Orleans Pelicans - x x
+Rodada 16: Phoenix Suns x Cleveland Cavaliers - x x
+Rodada 16: Golden State Warriors x Miami Heat - x x
+Rodada 16: Denver Nuggets x Memphis Grizzlies - x x
+Rodada 17: Houston Rockets x New York Knicks - x x
+Rodada 17: Toronto Raptors x Sacramento Kings - x x
+Rodada 17: Minnesota Timberwolves x San Antonio Spurs - x x
+Rodada 17: Milwaukee Bucks x Chicago Bulls - x x
+Rodada 17: Los Angeles Lakers x Boston Celtics - x x
+Rodada 17: Philadelphia 76ers x New Orleans Pelicans - x x
+Rodada 17: Detroit Pistons x Cleveland Cavaliers - x x
+Rodada 17: Orlando Magic x Miami Heat - x x
+Rodada 17: Phoenix Suns x Memphis Grizzlies - x x
+Rodada 17: Golden State Warriors x Denver Nuggets - x x
+Rodada 18: Houston Rockets x Sacramento Kings - x x
+Rodada 18: New York Knicks x San Antonio Spurs - x x
+Rodada 18: Toronto Raptors x Chicago Bulls - x x
+Rodada 18: Minnesota Timberwolves x Boston Celtics - x x
+Rodada 18: Milwaukee Bucks x New Orleans Pelicans - x x
+Rodada 18: Los Angeles Lakers x Cleveland Cavaliers - x x
+Rodada 18: Philadelphia 76ers x Miami Heat - x x
+Rodada 18: Detroit Pistons x Memphis Grizzlies - x x
+Rodada 18: Orlando Magic x Denver Nuggets - x x
+Rodada 18: Phoenix Suns x Golden State Warriors - x x
+Rodada 19: Houston Rockets x San Antonio Spurs - x x
+Rodada 19: Sacramento Kings x Chicago Bulls - x x
+Rodada 19: New York Knicks x Boston Celtics - x x
+Rodada 19: Toronto Raptors x New Orleans Pelicans - x x
+Rodada 19: Minnesota Timberwolves x Cleveland Cavaliers - x x
+Rodada 19: Milwaukee Bucks x Miami Heat - x x
+Rodada 19: Los Angeles Lakers x Memphis Grizzlies - x x
+Rodada 19: Philadelphia 76ers x Denver Nuggets - x x
+Rodada 19: Detroit Pistons x Golden State Warriors - x x
+Rodada 19: Orlando Magic x Phoenix Suns - x x
+Rodada 20: Chicago Bulls x Houston Rockets - x x
+Rodada 20: Boston Celtics x San Antonio Spurs - x x
+Rodada 20: New Orleans Pelicans x Sacramento Kings - x x
+Rodada 20: Cleveland Cavaliers x New York Knicks - x x
+Rodada 20: Miami Heat x Toronto Raptors - x x
+Rodada 20: Memphis Grizzlies x Minnesota Timberwolves - x x
+Rodada 20: Denver Nuggets x Milwaukee Bucks - x x
+Rodada 20: Golden State Warriors x Los Angeles Lakers - x x
+Rodada 20: Phoenix Suns x Philadelphia 76ers - x x
+Rodada 20: Orlando Magic x Detroit Pistons - x x
+Rodada 21: Boston Celtics x Houston Rockets - x x
+Rodada 21: New Orleans Pelicans x Chicago Bulls - x x
+Rodada 21: Cleveland Cavaliers x San Antonio Spurs - x x
+Rodada 21: Miami Heat x Sacramento Kings - x x
+Rodada 21: Memphis Grizzlies x New York Knicks - x x
+Rodada 21: Denver Nuggets x Toronto Raptors - x x
+Rodada 21: Golden State Warriors x Minnesota Timberwolves - x x
+Rodada 21: Phoenix Suns x Milwaukee Bucks - x x
+Rodada 21: Orlando Magic x Los Angeles Lakers - x x
+Rodada 21: Detroit Pistons x Philadelphia 76ers - x x
+Rodada 22: New Orleans Pelicans x Houston Rockets - x x
+Rodada 22: Cleveland Cavaliers x Boston Celtics - x x
+Rodada 22: Miami Heat x Chicago Bulls - x x
+Rodada 22: Memphis Grizzlies x San Antonio Spurs - x x
+Rodada 22: Denver Nuggets x Sacramento Kings - x x
+Rodada 22: Golden State Warriors x New York Knicks - x x
+Rodada 22: Phoenix Suns x Toronto Raptors - x x
+Rodada 22: Orlando Magic x Minnesota Timberwolves - x x
+Rodada 22: Detroit Pistons x Milwaukee Bucks - x x
+Rodada 22: Philadelphia 76ers x Los Angeles Lakers - x x
+Rodada 23: Cleveland Cavaliers x Houston Rockets - x x
+Rodada 23: Miami Heat x New Orleans Pelicans - x x
+Rodada 23: Memphis Grizzlies x Boston Celtics - x x
+Rodada 23: Denver Nuggets x Chicago Bulls - x x
+Rodada 23: Golden State Warriors x San Antonio Spurs - x x
+Rodada 23: Phoenix Suns x Sacramento Kings - x x
+Rodada 23: Orlando Magic x New York Knicks - x x
+Rodada 23: Detroit Pistons x Toronto Raptors - x x
+Rodada 23: Philadelphia 76ers x Minnesota Timberwolves - x x
+Rodada 23: Los Angeles Lakers x Milwaukee Bucks - x x
+Rodada 24: Miami Heat x Houston Rockets - x x
+Rodada 24: Memphis Grizzlies x Cleveland Cavaliers - x x
+Rodada 24: Denver Nuggets x New Orleans Pelicans - x x
+Rodada 24: Golden State Warriors x Boston Celtics - x x
+Rodada 24: Phoenix Suns x Chicago Bulls - x x
+Rodada 24: Orlando Magic x San Antonio Spurs - x x
+Rodada 24: Detroit Pistons x Sacramento Kings - x x
+Rodada 24: Philadelphia 76ers x New York Knicks - x x
+Rodada 24: Los Angeles Lakers x Toronto Raptors - x x
+Rodada 24: Milwaukee Bucks x Minnesota Timberwolves - x x
+Rodada 25: Memphis Grizzlies x Houston Rockets - x x
+Rodada 25: Denver Nuggets x Miami Heat - x x
+Rodada 25: Golden State Warriors x Cleveland Cavaliers - x x
+Rodada 25: Phoenix Suns x New Orleans Pelicans - x x
+Rodada 25: Orlando Magic x Boston Celtics - x x
+Rodada 25: Detroit Pistons x Chicago Bulls - x x
+Rodada 25: Philadelphia 76ers x San Antonio Spurs - x x
+Rodada 25: Los Angeles Lakers x Sacramento Kings - x x
+Rodada 25: Milwaukee Bucks x New York Knicks - x x
+Rodada 25: Minnesota Timberwolves x Toronto Raptors - x x
+Rodada 26: Denver Nuggets x Houston Rockets - x x
+Rodada 26: Golden State Warriors x Memphis Grizzlies - x x
+Rodada 26: Phoenix Suns x Miami Heat - x x
+Rodada 26: Orlando Magic x Cleveland Cavaliers - x x
+Rodada 26: Detroit Pistons x New Orleans Pelicans - x x
+Rodada 26: Philadelphia 76ers x Boston Celtics - x x
+Rodada 26: Los Angeles Lakers x Chicago Bulls - x x
+Rodada 26: Milwaukee Bucks x San Antonio Spurs - x x
+Rodada 26: Minnesota Timberwolves x Sacramento Kings - x x
+Rodada 26: Toronto Raptors x New York Knicks - x x
+Rodada 27: Golden State Warriors x Houston Rockets - x x
+Rodada 27: Phoenix Suns x Denver Nuggets - x x
+Rodada 27: Orlando Magic x Memphis Grizzlies - x x
+Rodada 27: Detroit Pistons x Miami Heat - x x
+Rodada 27: Philadelphia 76ers x Cleveland Cavaliers - x x
+Rodada 27: Los Angeles Lakers x New Orleans Pelicans - x x
+Rodada 27: Milwaukee Bucks x Boston Celtics - x x
+Rodada 27: Minnesota Timberwolves x Chicago Bulls - x x
+Rodada 27: Toronto Raptors x San Antonio Spurs - x x
+Rodada 27: New York Knicks x Sacramento Kings - x x
+Rodada 28: Phoenix Suns x Houston Rockets - x x
+Rodada 28: Orlando Magic x Golden State Warriors - x x
+Rodada 28: Detroit Pistons x Denver Nuggets - x x
+Rodada 28: Philadelphia 76ers x Memphis Grizzlies - x x
+Rodada 28: Los Angeles Lakers x Miami Heat - x x
+Rodada 28: Milwaukee Bucks x Cleveland Cavaliers - x x
+Rodada 28: Minnesota Timberwolves x New Orleans Pelicans - x x
+Rodada 28: Toronto Raptors x Boston Celtics - x x
+Rodada 28: New York Knicks x Chicago Bulls - x x
+Rodada 28: Sacramento Kings x San Antonio Spurs - x x
+Rodada 29: Orlando Magic x Houston Rockets - x x
+Rodada 29: Detroit Pistons x Phoenix Suns - x x
+Rodada 29: Philadelphia 76ers x Golden State Warriors - x x
+Rodada 29: Los Angeles Lakers x Denver Nuggets - x x
+Rodada 29: Milwaukee Bucks x Memphis Grizzlies - x x
+Rodada 29: Minnesota Timberwolves x Miami Heat - x x
+Rodada 29: Toronto Raptors x Cleveland Cavaliers - x x
+Rodada 29: New York Knicks x New Orleans Pelicans - x x
+Rodada 29: Sacramento Kings x Boston Celtics - x x
+Rodada 29: San Antonio Spurs x Chicago Bulls - x x
+Rodada 30: Detroit Pistons x Houston Rockets - x x
+Rodada 30: Philadelphia 76ers x Orlando Magic - x x
+Rodada 30: Los Angeles Lakers x Phoenix Suns - x x
+Rodada 30: Milwaukee Bucks x Golden State Warriors - x x
+Rodada 30: Minnesota Timberwolves x Denver Nuggets - x x
+Rodada 30: Toronto Raptors x Memphis Grizzlies - x x
+Rodada 30: New York Knicks x Miami Heat - x x
+Rodada 30: Sacramento Kings x Cleveland Cavaliers - x x
+Rodada 30: San Antonio Spurs x New Orleans Pelicans - x x
+Rodada 30: Chicago Bulls x Boston Celtics - x x
+Rodada 31: Philadelphia 76ers x Houston Rockets - x x
+Rodada 31: Los Angeles Lakers x Detroit Pistons - x x
+Rodada 31: Milwaukee Bucks x Orlando Magic - x x
+Rodada 31: Minnesota Timberwolves x Phoenix Suns - x x
+Rodada 31: Toronto Raptors x Golden State Warriors - x x
+Rodada 31: New York Knicks x Denver Nuggets - x x
+Rodada 31: Sacramento Kings x Memphis Grizzlies - x x
+Rodada 31: San Antonio Spurs x Miami Heat - x x
+Rodada 31: Chicago Bulls x Cleveland Cavaliers - x x
+Rodada 31: Boston Celtics x New Orleans Pelicans - x x
+Rodada 32: Los Angeles Lakers x Houston Rockets - x x
+Rodada 32: Milwaukee Bucks x Philadelphia 76ers - x x
+Rodada 32: Minnesota Timberwolves x Detroit Pistons - x x
+Rodada 32: Toronto Raptors x Orlando Magic - x x
+Rodada 32: New York Knicks x Phoenix Suns - x x
+Rodada 32: Sacramento Kings x Golden State Warriors - x x
+Rodada 32: San Antonio Spurs x Denver Nuggets - x x
+Rodada 32: Chicago Bulls x Memphis Grizzlies - x x
+Rodada 32: Boston Celtics x Miami Heat - x x
+Rodada 32: New Orleans Pelicans x Cleveland Cavaliers - x x
+Rodada 33: Milwaukee Bucks x Houston Rockets - x x
+Rodada 33: Minnesota Timberwolves x Los Angeles Lakers - x x
+Rodada 33: Toronto Raptors x Philadelphia 76ers - x x
+Rodada 33: New York Knicks x Detroit Pistons - x x
+Rodada 33: Sacramento Kings x Orlando Magic - x x
+Rodada 33: San Antonio Spurs x Phoenix Suns - x x
+Rodada 33: Chicago Bulls x Golden State Warriors - x x
+Rodada 33: Boston Celtics x Denver Nuggets - x x
+Rodada 33: New Orleans Pelicans x Memphis Grizzlies - x x
+Rodada 33: Cleveland Cavaliers x Miami Heat - x x
+Rodada 34: Minnesota Timberwolves x Houston Rockets - x x
+Rodada 34: Toronto Raptors x Milwaukee Bucks - x x
+Rodada 34: New York Knicks x Los Angeles Lakers - x x
+Rodada 34: Sacramento Kings x Philadelphia 76ers - x x
+Rodada 34: San Antonio Spurs x Detroit Pistons - x x
+Rodada 34: Chicago Bulls x Orlando Magic - x x
+Rodada 34: Boston Celtics x Phoenix Suns - x x
+Rodada 34: New Orleans Pelicans x Golden State Warriors - x x
+Rodada 34: Cleveland Cavaliers x Denver Nuggets - x x
+Rodada 34: Miami Heat x Memphis Grizzlies - x x
+Rodada 35: Toronto Raptors x Houston Rockets - x x
+Rodada 35: New York Knicks x Minnesota Timberwolves - x x
+Rodada 35: Sacramento Kings x Milwaukee Bucks - x x
+Rodada 35: San Antonio Spurs x Los Angeles Lakers - x x
+Rodada 35: Chicago Bulls x Philadelphia 76ers - x x
+Rodada 35: Boston Celtics x Detroit Pistons - x x
+Rodada 35: New Orleans Pelicans x Orlando Magic - x x
+Rodada 35: Cleveland Cavaliers x Phoenix Suns - x x
+Rodada 35: Miami Heat x Golden State Warriors - x x
+Rodada 35: Memphis Grizzlies x Denver Nuggets - x x
+Rodada 36: New York Knicks x Houston Rockets - x x
+Rodada 36: Sacramento Kings x Toronto Raptors - x x
+Rodada 36: San Antonio Spurs x Minnesota Timberwolves - x x
+Rodada 36: Chicago Bulls x Milwaukee Bucks - x x
+Rodada 36: Boston Celtics x Los Angeles Lakers - x x
+Rodada 36: New Orleans Pelicans x Philadelphia 76ers - x x
+Rodada 36: Cleveland Cavaliers x Detroit Pistons - x x
+Rodada 36: Miami Heat x Orlando Magic - x x
+Rodada 36: Memphis Grizzlies x Phoenix Suns - x x
+Rodada 36: Denver Nuggets x Golden State Warriors - x x
+Rodada 37: Sacramento Kings x Houston Rockets - x x
+Rodada 37: San Antonio Spurs x New York Knicks - x x
+Rodada 37: Chicago Bulls x Toronto Raptors - x x
+Rodada 37: Boston Celtics x Minnesota Timberwolves - x x
+Rodada 37: New Orleans Pelicans x Milwaukee Bucks - x x
+Rodada 37: Cleveland Cavaliers x Los Angeles Lakers - x x
+Rodada 37: Miami Heat x Philadelphia 76ers - x x
+Rodada 37: Memphis Grizzlies x Detroit Pistons - x x
+Rodada 37: Denver Nuggets x Orlando Magic - x x
+Rodada 37: Golden State Warriors x Phoenix Suns - x x
+Rodada 38: San Antonio Spurs x Houston Rockets - x x
+Rodada 38: Chicago Bulls x Sacramento Kings - x x
+Rodada 38: Boston Celtics x New York Knicks - x x
+Rodada 38: New Orleans Pelicans x Toronto Raptors - x x
+Rodada 38: Cleveland Cavaliers x Minnesota Timberwolves - x x
+Rodada 38: Miami Heat x Milwaukee Bucks - x x
+Rodada 38: Memphis Grizzlies x Los Angeles Lakers - x x
+Rodada 38: Denver Nuggets x Philadelphia 76ers - x x
+Rodada 38: Golden State Warriors x Detroit Pistons - x x
+Rodada 38: Phoenix Suns x Orlando Magic - x x
