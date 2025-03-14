@@ -1,20 +1,20 @@
-Wolves|Oeste
-Warriors|Oeste
-Rockets|Oeste
-Spurs|Oeste
-Kings|Oeste
-Lakers|Oeste
-Clippers|Oeste
-Nuggets|Oeste
-Thunder|Oeste
-Blazers|Oeste
-Hawks|Leste
-Cavs|Leste
-Magic|Leste
-Nets|Leste
-Pistons|Leste
-Wizards|Leste
-Pacers|Leste
-Knicks|Leste
-Bucks|Leste
-Raptors|Leste
+Los Angeles Lakers|Oeste
+San Antonio Spurs|Oeste
+New Orleans Pelicans|Oeste
+Memphis Grizzlies|Oeste
+Denver Nuggets|Oeste
+Minnesota Timberwolves|Oeste
+Phoenix Suns|Oeste
+Houston Rockets|Oeste
+Golden State Warriors|Oeste
+Sacramento Kings|Oeste
+Miami Heat|Leste
+Cleveland Cavaliers|Leste
+Orlando Magic|Leste
+Milwaukee Bucks|Leste
+New York Knicks|Leste
+Detroit Pistons|Leste
+Chicago Bulls|Leste
+Boston Celtics|Leste
+Toronto Raptors|Leste
+Philadelphia 76ers|Leste
