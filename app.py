@@ -123,9 +123,10 @@ def carregar_resultados():
 def calcular_classificacao():
     times = carregar_times()
     resultados = carregar_resultados()
-
+    vitorias_iniciais = {"New York Knicks": -19}
+    derrotas_iniciais = {"New York Knicks": 19}
     # Criar um dicionário único para todas as conferências
-    tabela = {time['nome']: {'Conferencia': time['conferencia'], 'Pontos': 0, 'Vitórias': 0, 'Derrotas': 0, 'Saldo': 0, 'Feitos': 0, 'Sofridos': 0} for time in times}
+    tabela = {time['nome']: {'Conferencia': time['conferencia'], 'Pontos': 0, 'Vitórias': vitorias_iniciais.get(time['nome'], 0), 'Derrotas': derrotas_iniciais.get(time['nome'], 0), 'Saldo': 0, 'Feitos': 0, 'Sofridos': 0} for time in times}
 
     for time_casa, time_fora, placar_casa, placar_fora in resultados:
         if placar_casa == 'x' or placar_fora == 'x':
