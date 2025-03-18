@@ -18,7 +18,7 @@ Rodada 2: Minnesota Timberwolves x Golden State Warriors - x x
 Rodada 2: Milwaukee Bucks x Phoenix Suns - x x
 Rodada 2: Los Angeles Lakers x Orlando Magic - x x
 Rodada 2: Philadelphia 76ers x Detroit Pistons - x x
-Rodada 3: Houston Rockets x New Orleans Pelicans - x x
+Rodada 3: New Orleans Pelicans x Houston Rockets - x x
 Rodada 3: Boston Celtics x Cleveland Cavaliers - x x
 Rodada 3: Chicago Bulls x Miami Heat - x x
 Rodada 3: San Antonio Spurs x Memphis Grizzlies - x x
@@ -28,7 +28,7 @@ Rodada 3: Toronto Raptors x Phoenix Suns - x x
 Rodada 3: Minnesota Timberwolves x Orlando Magic - x x
 Rodada 3: Milwaukee Bucks x Detroit Pistons - x x
 Rodada 3: Los Angeles Lakers x Philadelphia 76ers - x x
-Rodada 4: Houston Rockets x Cleveland Cavaliers - x x
+Rodada 4: Cleveland Cavaliers x Houston Rockets - x x
 Rodada 4: New Orleans Pelicans x Miami Heat - x x
 Rodada 4: Boston Celtics x Memphis Grizzlies - x x
 Rodada 4: Chicago Bulls x Denver Nuggets - x x
@@ -48,7 +48,7 @@ Rodada 5: Sacramento Kings x Detroit Pistons - x x
 Rodada 5: New York Knicks x Philadelphia 76ers - x x
 Rodada 5: Toronto Raptors x Los Angeles Lakers - x x
 Rodada 5: Minnesota Timberwolves x Milwaukee Bucks - x x
-Rodada 6: Houston Rockets x Memphis Grizzlies - x x
+Rodada 6: Memphis Grizzlies x Houston Rockets - x x
 Rodada 6: Miami Heat x Denver Nuggets - x x
 Rodada 6: Cleveland Cavaliers x Golden State Warriors - x x
 Rodada 6: New Orleans Pelicans x Phoenix Suns - x x
@@ -68,7 +68,7 @@ Rodada 7: Chicago Bulls x Los Angeles Lakers - x x
 Rodada 7: San Antonio Spurs x Milwaukee Bucks - x x
 Rodada 7: Sacramento Kings x Minnesota Timberwolves - x x
 Rodada 7: New York Knicks x Toronto Raptors - x x
-Rodada 8: Houston Rockets x Golden State Warriors - x x
+Rodada 8: Golden State Warriors x Houston Rockets - x x
 Rodada 8: Denver Nuggets x Phoenix Suns - x x
 Rodada 8: Memphis Grizzlies x Orlando Magic - x x
 Rodada 8: Miami Heat x Detroit Pistons - x x
@@ -88,7 +88,7 @@ Rodada 9: New Orleans Pelicans x Minnesota Timberwolves - x x
 Rodada 9: Boston Celtics x Toronto Raptors - x x
 Rodada 9: Chicago Bulls x New York Knicks - x x
 Rodada 9: San Antonio Spurs x Sacramento Kings - x x
-Rodada 10: Houston Rockets x Orlando Magic - x x
+Rodada 10: Orlando Magic x Houston Rockets - x x
 Rodada 10: Phoenix Suns x Detroit Pistons - x x
 Rodada 10: Golden State Warriors x Philadelphia 76ers - x x
 Rodada 10: Denver Nuggets x Los Angeles Lakers - x x
@@ -98,7 +98,7 @@ Rodada 10: Cleveland Cavaliers x Toronto Raptors - x x
 Rodada 10: New Orleans Pelicans x New York Knicks - x x
 Rodada 10: Boston Celtics x Sacramento Kings - x x
 Rodada 10: Chicago Bulls x San Antonio Spurs - x x
-Rodada 11: Houston Rockets x Detroit Pistons - x x
+Rodada 11: Detroit Pistons x Houston Rockets - x x
 Rodada 11: Orlando Magic x Philadelphia 76ers - x x
 Rodada 11: Phoenix Suns x Los Angeles Lakers - x x
 Rodada 11: Golden State Warriors x Milwaukee Bucks - x x
@@ -148,7 +148,7 @@ Rodada 15: Phoenix Suns x Boston Celtics - x x
 Rodada 15: Golden State Warriors x New Orleans Pelicans - x x
 Rodada 15: Denver Nuggets x Cleveland Cavaliers - x x
 Rodada 15: Memphis Grizzlies x Miami Heat - x x
-Rodada 16: Houston Rockets x Toronto Raptors - x x
+Rodada 16: Toronto Raptors x Houston Rockets - x x
 Rodada 16: Minnesota Timberwolves x New York Knicks - x x
 Rodada 16: Milwaukee Bucks x Sacramento Kings - x x
 Rodada 16: Los Angeles Lakers x San Antonio Spurs - x x
@@ -168,7 +168,7 @@ Rodada 17: Detroit Pistons x Cleveland Cavaliers - x x
 Rodada 17: Orlando Magic x Miami Heat - x x
 Rodada 17: Phoenix Suns x Memphis Grizzlies - x x
 Rodada 17: Golden State Warriors x Denver Nuggets - x x
-Rodada 18: Houston Rockets x Sacramento Kings - x x
+Rodada 18: Sacramento Kings x Houston Rockets - x x
 Rodada 18: New York Knicks x San Antonio Spurs - x x
 Rodada 18: Toronto Raptors x Chicago Bulls - x x
 Rodada 18: Minnesota Timberwolves x Boston Celtics - x x
@@ -208,7 +208,7 @@ Rodada 21: Golden State Warriors x Minnesota Timberwolves - x x
 Rodada 21: Phoenix Suns x Milwaukee Bucks - x x
 Rodada 21: Orlando Magic x Los Angeles Lakers - x x
 Rodada 21: Detroit Pistons x Philadelphia 76ers - x x
-Rodada 22: New Orleans Pelicans x Houston Rockets - x x
+Rodada 22: Houston Rockets x New Orleans Pelicans - x x
 Rodada 22: Cleveland Cavaliers x Boston Celtics - x x
 Rodada 22: Miami Heat x Chicago Bulls - x x
 Rodada 22: Memphis Grizzlies x San Antonio Spurs - x x
@@ -218,7 +218,7 @@ Rodada 22: Phoenix Suns x Toronto Raptors - x x
 Rodada 22: Orlando Magic x Minnesota Timberwolves - x x
 Rodada 22: Detroit Pistons x Milwaukee Bucks - x x
 Rodada 22: Philadelphia 76ers x Los Angeles Lakers - x x
-Rodada 23: Cleveland Cavaliers x Houston Rockets - x x
+Rodada 23: Houston Rockets x Cleveland Cavaliers - x x
 Rodada 23: Miami Heat x New Orleans Pelicans - x x
 Rodada 23: Memphis Grizzlies x Boston Celtics - x x
 Rodada 23: Denver Nuggets x Chicago Bulls - x x
@@ -238,7 +238,7 @@ Rodada 24: Detroit Pistons x Sacramento Kings - x x
 Rodada 24: Philadelphia 76ers x New York Knicks - x x
 Rodada 24: Los Angeles Lakers x Toronto Raptors - x x
 Rodada 24: Milwaukee Bucks x Minnesota Timberwolves - x x
-Rodada 25: Memphis Grizzlies x Houston Rockets - x x
+Rodada 25: Houston Rockets x Memphis Grizzlies - x x
 Rodada 25: Denver Nuggets x Miami Heat - x x
 Rodada 25: Golden State Warriors x Cleveland Cavaliers - x x
 Rodada 25: Phoenix Suns x New Orleans Pelicans - x x
@@ -258,7 +258,7 @@ Rodada 26: Los Angeles Lakers x Chicago Bulls - x x
 Rodada 26: Milwaukee Bucks x San Antonio Spurs - x x
 Rodada 26: Minnesota Timberwolves x Sacramento Kings - x x
 Rodada 26: Toronto Raptors x New York Knicks - x x
-Rodada 27: Golden State Warriors x Houston Rockets - x x
+Rodada 27: Houston Rockets x Golden State Warriors - x x
 Rodada 27: Phoenix Suns x Denver Nuggets - x x
 Rodada 27: Orlando Magic x Memphis Grizzlies - x x
 Rodada 27: Detroit Pistons x Miami Heat - x x
@@ -278,7 +278,7 @@ Rodada 28: Minnesota Timberwolves x New Orleans Pelicans - x x
 Rodada 28: Toronto Raptors x Boston Celtics - x x
 Rodada 28: New York Knicks x Chicago Bulls - x x
 Rodada 28: Sacramento Kings x San Antonio Spurs - x x
-Rodada 29: Orlando Magic x Houston Rockets - x x
+Rodada 29: Houston Rockets x Orlando Magic - x x
 Rodada 29: Detroit Pistons x Phoenix Suns - x x
 Rodada 29: Philadelphia 76ers x Golden State Warriors - x x
 Rodada 29: Los Angeles Lakers x Denver Nuggets - x x
@@ -288,7 +288,7 @@ Rodada 29: Toronto Raptors x Cleveland Cavaliers - x x
 Rodada 29: New York Knicks x New Orleans Pelicans - x x
 Rodada 29: Sacramento Kings x Boston Celtics - x x
 Rodada 29: San Antonio Spurs x Chicago Bulls - x x
-Rodada 30: Detroit Pistons x Houston Rockets - x x
+Rodada 30: Houston Rockets x Detroit Pistons - x x
 Rodada 30: Philadelphia 76ers x Orlando Magic - x x
 Rodada 30: Los Angeles Lakers x Phoenix Suns - x x
 Rodada 30: Milwaukee Bucks x Golden State Warriors - x x
@@ -338,7 +338,7 @@ Rodada 34: Boston Celtics x Phoenix Suns - x x
 Rodada 34: New Orleans Pelicans x Golden State Warriors - x x
 Rodada 34: Cleveland Cavaliers x Denver Nuggets - x x
 Rodada 34: Miami Heat x Memphis Grizzlies - x x
-Rodada 35: Toronto Raptors x Houston Rockets - x x
+Rodada 35: Houston Rockets x Toronto Raptors - x x
 Rodada 35: New York Knicks x Minnesota Timberwolves - x x
 Rodada 35: Sacramento Kings x Milwaukee Bucks - x x
 Rodada 35: San Antonio Spurs x Los Angeles Lakers - x x
@@ -358,7 +358,7 @@ Rodada 36: Cleveland Cavaliers x Detroit Pistons - x x
 Rodada 36: Miami Heat x Orlando Magic - x x
 Rodada 36: Memphis Grizzlies x Phoenix Suns - x x
 Rodada 36: Denver Nuggets x Golden State Warriors - x x
-Rodada 37: Sacramento Kings x Houston Rockets - x x
+Rodada 37: Houston Rockets x Sacramento Kings - x x
 Rodada 37: San Antonio Spurs x New York Knicks - x x
 Rodada 37: Chicago Bulls x Toronto Raptors - x x
 Rodada 37: Boston Celtics x Minnesota Timberwolves - x x
