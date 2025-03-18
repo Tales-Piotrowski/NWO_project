@@ -8,38 +8,76 @@
 </head>
 <body>
     <h1>Calendário de Jogos</h1>
+
     <div class="text-center">
-        <a href="{{ url_for('index') }}" class="btn btn-primary">Voltar para a página inicial</a>
+        <a href="{{ url_for('index') }}" class="btn">Voltar para a página inicial</a>
     </div>
-    <table border="2">
-        <tr>
-            <th>Time Casa</th>
-            <th>Placar</th>
-            <th>Time Fora</th>
-            <th>Editar</th>
-        </tr>
+
+    <!-- Controles de navegação -->
+    <div class="navigation">
+        <button id="prevRodada">⬅️</button>
+        <span id="rodadaAtual"></span>
+        <button id="nextRodada">➡️</button>
+    </div>
+
+    <!-- Container das rodadas -->
+    <div id="calendario">
         {% for rodada_idx, jogos in enumerate(rodadas, start=1) %}
-            <tr>
-                <td colspan="5" style="text-align: center; font-weight: bold;">Rodada {{ rodada_idx }}</td>
-            </tr>
-            {% for jogo in jogos %}
-            <tr>
-                <td>{{ jogo[0] }}</td>
-                <td>{{ jogo[2] }} - {{ jogo[3] }}</td>
-                <td>{{ jogo[1] }}</td>
-                <td>
-                    <form action="{{ url_for('editar_resultado') }}" method="POST">
-                        <input type="hidden" name="time_casa" value="{{ jogo[0] }}">
-                        <input type="hidden" name="time_fora" value="{{ jogo[1] }}">
-                        <input type="text" name="placar_casa" value="{{ jogo[2] }}" size="2">
-                        <input type="text" name="placar_fora" value="{{ jogo[3] }}" size="2">
-                        <button type="submit">Salvar</button>
-                    </form>
-                </td>
-            </tr>
-            {% endfor %}
+        <div class="rodada" data-rodada="{{ rodada_idx }}">
+            <table>
+                <tr>
+                    <th>Time Casa</th>
+                    <th>Placar</th>
+                    <th>Time Fora</th>
+                    <th>Editar</th>
+                </tr>
+                {% for jogo in jogos %}
+                <tr>
+                    <td>{{ jogo[0] }}</td>
+                    <td>{{ jogo[2] }} - {{ jogo[3] }}</td>
+                    <td>{{ jogo[1] }}</td>
+                    <td>
+                        <form action="{{ url_for('editar_resultado') }}" method="POST">
+                            <input type="hidden" name="rodada" value="{{ rodada_idx }}">
+                            <input type="hidden" name="time_casa" value="{{ jogo[0] }}">
+                            <input type="hidden" name="time_fora" value="{{ jogo[1] }}">
+                            <input type="text" name="placar_casa" value="{{ jogo[2] }}" size="2">
+                            <input type="text" name="placar_fora" value="{{ jogo[3] }}" size="2">
+                            <button type="submit">Salvar</button>
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
         {% endfor %}
-    </table>
-    <br>
+    </div>
+
+    <script>
+        let rodadaAtual = 1;
+        const rodadas = document.querySelectorAll(".rodada");
+        const totalRodadas = rodadas.length;
+        const rodadaTexto = document.getElementById("rodadaAtual");
+    
+        function mostrarRodada(index) {
+            rodadas.forEach((rodada, i) => {
+                rodada.style.display = i === index ? "block" : "none";
+            });
+            rodadaTexto.textContent = `Rodada ${index + 1}`;
+        }
+    
+        document.getElementById("prevRodada").addEventListener("click", () => {
+            rodadaAtual = rodadaAtual > 1 ? rodadaAtual - 1 : totalRodadas;
+            mostrarRodada(rodadaAtual - 1);
+        });
+    
+        document.getElementById("nextRodada").addEventListener("click", () => {
+            rodadaAtual = rodadaAtual < totalRodadas ? rodadaAtual + 1 : 1;
+            mostrarRodada(rodadaAtual - 1);
+        });
+    
+        // Exibir a primeira rodada ao carregar a página
+        mostrarRodada(0);
+    </script>    
 </body>
 </html>
