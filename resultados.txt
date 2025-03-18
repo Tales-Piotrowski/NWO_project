@@ -1,13 +1,13 @@
-Rodada 1: Houston Rockets x Chicago Bulls - x x
-Rodada 1: San Antonio Spurs x Boston Celtics - x x
-Rodada 1: Sacramento Kings x New Orleans Pelicans - x x
-Rodada 1: New York Knicks x Cleveland Cavaliers - x x
-Rodada 1: Toronto Raptors x Miami Heat - x x
-Rodada 1: Minnesota Timberwolves x Memphis Grizzlies - x x
-Rodada 1: Milwaukee Bucks x Denver Nuggets - x x
-Rodada 1: Los Angeles Lakers x Golden State Warriors - x x
-Rodada 1: Philadelphia 76ers x Phoenix Suns - x x
-Rodada 1: Detroit Pistons x Orlando Magic - x x
+Rodada 1: Houston Rockets x Chicago Bulls - 114 122
+Rodada 1: San Antonio Spurs x Boston Celtics - 108 120
+Rodada 1: Sacramento Kings x New Orleans Pelicans - 112 86
+Rodada 1: New York Knicks x Cleveland Cavaliers - 126 110
+Rodada 1: Toronto Raptors x Miami Heat - 118 125
+Rodada 1: Minnesota Timberwolves x Memphis Grizzlies - 144 129
+Rodada 1: Milwaukee Bucks x Denver Nuggets - 143 119
+Rodada 1: Los Angeles Lakers x Golden State Warriors - 122 125
+Rodada 1: Philadelphia 76ers x Phoenix Suns - 104 114
+Rodada 1: Detroit Pistons x Orlando Magic - 107 126
 Rodada 2: Houston Rockets x Boston Celtics - x x
 Rodada 2: Chicago Bulls x New Orleans Pelicans - x x
 Rodada 2: San Antonio Spurs x Cleveland Cavaliers - x x
