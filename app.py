@@ -123,8 +123,8 @@ def carregar_resultados():
 def calcular_classificacao():
     times = carregar_times()
     resultados = carregar_resultados()
-    vitorias_iniciais = {}
-    derrotas_iniciais = {}
+    vitorias_iniciais = {"Milwaukee Bucks": -1}
+    derrotas_iniciais = {"Milwaukee Bucks": 1}
     # Criar um dicionário único para todas as conferências
     tabela = {time['nome']: {'Conferencia': time['conferencia'], 'Pontos': 0, 'Vitórias': vitorias_iniciais.get(time['nome'], 0), 'Derrotas': derrotas_iniciais.get(time['nome'], 0), 'Saldo': 0, 'Feitos': 0, 'Sofridos': 0} for time in times}
 
