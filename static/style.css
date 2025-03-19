@@ -15,18 +15,16 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Estilizando a tabela */
+/* Estilizando tabelas gerais */
 table {
     width: 60%;
     margin: 20px auto;
     border-collapse: collapse;
     background: #1e1e1e;
-    border-radius: 10px;
-    overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
-/* Cabeçalhos da tabela */
+/* Cabeçalhos das tabelas */
 th {
     background: #333;
     color: #fff;
@@ -34,15 +32,22 @@ th {
     font-weight: bold;
 }
 
-/* Células da tabela */
+/* Células das tabelas */
 td {
     border: 1px solid #444;
     padding: 10px;
     text-align: center;
 }
 
+/* ---------------------------- */
+/* Estilos específicos para o calendário */
+/* ---------------------------- */
+body#pagina-calendario .tabela-calendario {
+    border-radius: 5px;
+}
+
 /* Destaque para o cabeçalho de cada rodada */
-tr td[colspan="5"] {
+body#pagina-calendario tr td[colspan="5"] {
     background: #272727;
     color: #ffffff;
     font-size: 20px;
@@ -52,7 +57,7 @@ tr td[colspan="5"] {
 }
 
 /* Estilizando os inputs */
-input[type="text"] {
+body#pagina-calendario input[type="text"] {
     width: 40px;
     text-align: center;
     background: #252525;
@@ -62,7 +67,37 @@ input[type="text"] {
     border-radius: 5px;
 }
 
-/* Botão de salvar */
+/* ---------------------------- */
+/* Estilos específicos para a classificação */
+/* ---------------------------- */
+body#pagina-classificacao table {
+    overflow: hidden;
+}
+
+/* Estilo alternado para melhorar a leitura */
+body#pagina-classificacao tbody tr:nth-child(even) {
+    background-color: #222;
+}
+
+/* Destaque para a primeira linha */
+body#pagina-classificacao tbody tr:first-child {
+    background-color: #383838;
+    font-weight: bold;
+}
+
+/* Separação visual entre conferências */
+body#pagina-classificacao h2 {
+    margin-top: 40px;
+    font-size: 26px;
+    color: #0d63d3;
+    border-bottom: 2px solid #4988e6;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+/* ---------------------------- */
+/* Botões e navegação */
+/* ---------------------------- */
 button {
     background: #436d85;
     color: white;
@@ -81,7 +116,7 @@ button:hover {
 a.btn {
     display: inline-block;
     text-decoration: none;
-    background: #007bff;
+    background: #436d85;
     color: white;
     padding: 10px 15px;
     border-radius: 5px;
@@ -90,5 +125,46 @@ a.btn {
 }
 
 a.btn:hover {
-    background: #0056b3;
+    background: #388E3C;
+}
+
+/* Estilizando a navegação das rodadas */
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    font-size: 24px;
+}
+
+.navigation button {
+    background: #436d85;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.navigation button:hover {
+    background: #388E3C;
+}
+
+/* Botões da Página Inicial */
+#pagina-index a.btn-primary {
+    background: #e01190;
+}
+
+#pagina-index a.btn-success {
+    background: #7e7a7d;
+}
+#pagina-index a.btn-info {
+    background: #535053;
+}
+
+#pagina-index a.btn:hover {
+    background: #388E3C;
 }
