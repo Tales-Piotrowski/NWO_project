@@ -29,14 +29,13 @@
                     <th>Time Fora</th>
                     <th>Placar</th> 
                     <th>Time Casa</th>
-                    <th>Editar</th>
                 </tr>
                 {% for jogo in jogos %}
                 <tr>
                     <td>{{ jogo[0] }}</td>
                     <td>{{ jogo[2] }} - {{ jogo[3] }}</td>
                     <td>{{ jogo[1] }}</td>
-                    <td>
+                    <!--<td>
                         <form action="{{ url_for('editar_resultado') }}" method="POST">
                             <input type="hidden" name="rodada" value="{{ rodada_idx }}">
                             <input type="hidden" name="time_casa" value="{{ jogo[0] }}">
@@ -45,7 +44,7 @@
                             <input type="text" name="placar_fora" value="{{ jogo[3] }}" size="2">
                             <button type="submit">Salvar</button>
                         </form>
-                    </td>
+                    </td>-->
                 </tr>
                 {% endfor %}
             </table>
