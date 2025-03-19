@@ -7,13 +7,15 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body id="pagina-classificacao">
+
     <div class="container mt-5">
-        <h1 class="text-center">NWO Season 4</h1>
+        <h1 class="text-center">Classificação do Campeonato</h1>
         
         <h2>Conferência Leste</h2>
         <table class="table">
             <thead>
                 <tr>
+                    <th>#</th>
                     <th>Time</th>
                     <th>Vitórias</th>
                     <th>Derrotas</th>
@@ -23,6 +25,7 @@
             <tbody>
                 {% for time, stats in classificacao_leste %}
                 <tr>
+                    <td>{{ loop.index }}</td>
                     <td>{{ time }}</td>
                     <td>{{ stats['Vitórias'] }}</td>
                     <td>{{ stats['Derrotas'] }}</td>
@@ -36,6 +39,7 @@
         <table class="table">
             <thead>
                 <tr>
+                    <th>#</th>
                     <th>Time</th>
                     <th>Vitórias</th>
                     <th>Derrotas</th>
@@ -45,6 +49,7 @@
             <tbody>
                 {% for time, stats in classificacao_oeste %}
                 <tr>
+                    <td>{{ loop.index }}</td>
                     <td>{{ time }}</td>
                     <td>{{ stats['Vitórias'] }}</td>
                     <td>{{ stats['Derrotas'] }}</td>
