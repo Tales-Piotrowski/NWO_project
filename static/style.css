@@ -79,10 +79,28 @@ body#pagina-classificacao tbody tr:nth-child(even) {
     background-color: #222;
 }
 
-/* Destaque para a primeira linha */
-body#pagina-classificacao tbody tr:first-child {
-    background-color: #383838;
+/* Destaca apenas o número do 1º colocado em dourado */
+body#pagina-classificacao tbody tr:first-child td:first-child {
     font-weight: bold;
+    color: #FFD700;
+    content: "👑";
+}
+
+/* 2º ao 7º lugar: Verde */
+body#pagina-classificacao tbody tr:nth-child(n+2):nth-child(-n+7) td:first-child {
+    font-weight: bold;
+    color: #32CD32;
+}
+
+/* Último colocado: Adiciona um emoji de fantasma */
+body#pagina-classificacao tbody tr:last-child td:first-child::after {
+    content: "👻";
+}
+
+/* Último colocado: Número da posição em vermelho */
+body#pagina-classificacao tbody tr:last-child td:first-child {
+    font-weight: bold;
+    color: #FF4500; /* Vermelho forte (laranja avermelhado) */
 }
 
 /* Separação visual entre conferências */
