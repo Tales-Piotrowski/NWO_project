@@ -18,16 +18,16 @@ Rodada 2: Minnesota Timberwolves x Golden State Warriors - 122 116
 Rodada 2: Milwaukee Bucks x Phoenix Suns - 94 115
 Rodada 2: Los Angeles Lakers x Orlando Magic - 127 113
 Rodada 2: Philadelphia 76ers x Detroit Pistons - 129 127
-Rodada 3: New Orleans Pelicans x Houston Rockets - x x
-Rodada 3: Boston Celtics x Cleveland Cavaliers - x x
-Rodada 3: Chicago Bulls x Miami Heat - x x
-Rodada 3: San Antonio Spurs x Memphis Grizzlies - x x
-Rodada 3: Sacramento Kings x Denver Nuggets - x x
-Rodada 3: New York Knicks x Golden State Warriors - x x
-Rodada 3: Toronto Raptors x Phoenix Suns - x x
-Rodada 3: Minnesota Timberwolves x Orlando Magic - x x
-Rodada 3: Milwaukee Bucks x Detroit Pistons - x x
-Rodada 3: Los Angeles Lakers x Philadelphia 76ers - x x
+Rodada 3: New Orleans Pelicans x Houston Rockets - 118 99
+Rodada 3: Boston Celtics x Cleveland Cavaliers - 135 128
+Rodada 3: Chicago Bulls x Miami Heat - 110 109
+Rodada 3: San Antonio Spurs x Memphis Grizzlies - 99 130
+Rodada 3: Sacramento Kings x Denver Nuggets - 140 137
+Rodada 3: New York Knicks x Golden State Warriors - 129 119
+Rodada 3: Toronto Raptors x Phoenix Suns - 126 134
+Rodada 3: Minnesota Timberwolves x Orlando Magic - 121 127
+Rodada 3: Detroit Pistons x Milwaukee Bucks - 89 109
+Rodada 3: Los Angeles Lakers x Philadelphia 76ers - 127 121
 Rodada 4: Cleveland Cavaliers x Houston Rockets - x x
 Rodada 4: New Orleans Pelicans x Miami Heat - x x
 Rodada 4: Boston Celtics x Memphis Grizzlies - x x
@@ -216,7 +216,7 @@ Rodada 22: Denver Nuggets x Sacramento Kings - x x
 Rodada 22: Golden State Warriors x New York Knicks - x x
 Rodada 22: Phoenix Suns x Toronto Raptors - x x
 Rodada 22: Orlando Magic x Minnesota Timberwolves - x x
-Rodada 22: Detroit Pistons x Milwaukee Bucks - x x
+Rodada 22: Milwaukee Bucks x Detroit Pistons - x x
 Rodada 22: Philadelphia 76ers x Los Angeles Lakers - x x
 Rodada 23: Houston Rockets x Cleveland Cavaliers - x x
 Rodada 23: Miami Heat x New Orleans Pelicans - x x
