@@ -48,16 +48,16 @@ Rodada 5: Sacramento Kings x Detroit Pistons - 118 157
 Rodada 5: New York Knicks x Philadelphia 76ers - 112 124
 Rodada 5: Toronto Raptors x Los Angeles Lakers - 123 141
 Rodada 5: Minnesota Timberwolves x Milwaukee Bucks - 122 128
-Rodada 6: Memphis Grizzlies x Houston Rockets - x x
-Rodada 6: Miami Heat x Denver Nuggets - x x
-Rodada 6: Cleveland Cavaliers x Golden State Warriors - x x
-Rodada 6: New Orleans Pelicans x Phoenix Suns - x x
-Rodada 6: Boston Celtics x Orlando Magic - x x
-Rodada 6: Chicago Bulls x Detroit Pistons - x x
-Rodada 6: Philadelphia 76ers x San Antonio Spurs - x x
-Rodada 6: Sacramento Kings x Los Angeles Lakers - x x
-Rodada 6: New York Knicks x Milwaukee Bucks - x x
-Rodada 6: Toronto Raptors x Minnesota Timberwolves - x x
+Rodada 6: Memphis Grizzlies x Houston Rockets - 137 129
+Rodada 6: Miami Heat x Denver Nuggets - 113 133
+Rodada 6: Cleveland Cavaliers x Golden State Warriors - 104 108
+Rodada 6: New Orleans Pelicans x Phoenix Suns - 108 110
+Rodada 6: Boston Celtics x Orlando Magic - 100 128
+Rodada 6: Chicago Bulls x Detroit Pistons - 148 137
+Rodada 6: Philadelphia 76ers x San Antonio Spurs - 145 115
+Rodada 6: Sacramento Kings x Los Angeles Lakers - 121 134
+Rodada 6: New York Knicks x Milwaukee Bucks - 119 98
+Rodada 6: Toronto Raptors x Minnesota Timberwolves - 129 110
 Rodada 7: Houston Rockets x Denver Nuggets - x x
 Rodada 7: Memphis Grizzlies x Golden State Warriors - x x
 Rodada 7: Miami Heat x Phoenix Suns - x x
