@@ -38,16 +38,16 @@ Rodada 4: New York Knicks x Orlando Magic - 121 124
 Rodada 4: Toronto Raptors x Detroit Pistons - 123 109
 Rodada 4: Minnesota Timberwolves x Philadelphia 76ers - 113 100
 Rodada 4: Milwaukee Bucks x Los Angeles Lakers - 113 110
-Rodada 5: Houston Rockets x Miami Heat - x x
-Rodada 5: Cleveland Cavaliers x Memphis Grizzlies - x x
-Rodada 5: New Orleans Pelicans x Denver Nuggets - x x
-Rodada 5: Boston Celtics x Golden State Warriors - x x
-Rodada 5: Chicago Bulls x Phoenix Suns - x x
-Rodada 5: Orlando Magic x San Antonio Spurs - x x
-Rodada 5: Sacramento Kings x Detroit Pistons - x x
-Rodada 5: New York Knicks x Philadelphia 76ers - x x
-Rodada 5: Toronto Raptors x Los Angeles Lakers - x x
-Rodada 5: Minnesota Timberwolves x Milwaukee Bucks - x x
+Rodada 5: Houston Rockets x Miami Heat - 123 119
+Rodada 5: Cleveland Cavaliers x Memphis Grizzlies - 115 121
+Rodada 5: New Orleans Pelicans x Denver Nuggets - 145 114
+Rodada 5: Boston Celtics x Golden State Warriors - 129 116
+Rodada 5: Chicago Bulls x Phoenix Suns - 124 109
+Rodada 5: Orlando Magic x San Antonio Spurs - 125 133
+Rodada 5: Sacramento Kings x Detroit Pistons - 118 157
+Rodada 5: New York Knicks x Philadelphia 76ers - 112 124
+Rodada 5: Toronto Raptors x Los Angeles Lakers - 123 141
+Rodada 5: Minnesota Timberwolves x Milwaukee Bucks - 122 128
 Rodada 6: Memphis Grizzlies x Houston Rockets - x x
 Rodada 6: Miami Heat x Denver Nuggets - x x
 Rodada 6: Cleveland Cavaliers x Golden State Warriors - x x
