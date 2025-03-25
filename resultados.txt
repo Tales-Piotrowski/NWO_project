@@ -68,16 +68,16 @@ Rodada 7: Chicago Bulls x Los Angeles Lakers - 120 126
 Rodada 7: San Antonio Spurs x Milwaukee Bucks - 127 121
 Rodada 7: Sacramento Kings x Minnesota Timberwolves - 103 129
 Rodada 7: New York Knicks x Toronto Raptors - 131 126
-Rodada 8: Golden State Warriors x Houston Rockets - x x
-Rodada 8: Denver Nuggets x Phoenix Suns - x x
-Rodada 8: Memphis Grizzlies x Orlando Magic - x x
-Rodada 8: Miami Heat x Detroit Pistons - x x
-Rodada 8: Cleveland Cavaliers x Philadelphia 76ers - x x
-Rodada 8: New Orleans Pelicans x Los Angeles Lakers - x x
-Rodada 8: Boston Celtics x Milwaukee Bucks - x x
-Rodada 8: Chicago Bulls x Minnesota Timberwolves - x x
-Rodada 8: San Antonio Spurs x Toronto Raptors - x x
-Rodada 8: Sacramento Kings x New York Knicks - x x
+Rodada 8: Golden State Warriors x Houston Rockets - 120 110
+Rodada 8: Denver Nuggets x Phoenix Suns - 119 107
+Rodada 8: Memphis Grizzlies x Orlando Magic - 105 112
+Rodada 8: Miami Heat x Detroit Pistons - 104 131
+Rodada 8: Cleveland Cavaliers x Philadelphia 76ers - 85 101
+Rodada 8: New Orleans Pelicans x Los Angeles Lakers - 124 107
+Rodada 8: Boston Celtics x Milwaukee Bucks - 116 119
+Rodada 8: Chicago Bulls x Minnesota Timberwolves - 130 131
+Rodada 8: San Antonio Spurs x Toronto Raptors - 119 137
+Rodada 8: Sacramento Kings x New York Knicks - 106 85
 Rodada 9: Houston Rockets x Phoenix Suns - x x
 Rodada 9: Golden State Warriors x Orlando Magic - x x
 Rodada 9: Denver Nuggets x Detroit Pistons - x x
