@@ -165,7 +165,8 @@ def calcular_classificacao():
     # Separar as classificações por conferência
     classificacao_leste = sorted(
         [item for item in tabela.items() if item[1]['Conferencia'] == 'Leste'],
-        key=lambda x: (x[1]['Pontos'], x[1]['Vitórias'], x[1]['Saldo']),
+        key=lambda x: (#x[1]['Pontos'], 
+            x[1]['Vitórias'], x[1]['Saldo']),
         reverse=True
     )
 
