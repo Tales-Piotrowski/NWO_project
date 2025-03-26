@@ -78,16 +78,16 @@ Rodada 8: Boston Celtics x Milwaukee Bucks - 116 119
 Rodada 8: Chicago Bulls x Minnesota Timberwolves - 130 131
 Rodada 8: San Antonio Spurs x Toronto Raptors - 119 137
 Rodada 8: Sacramento Kings x New York Knicks - 106 85
-Rodada 9: Houston Rockets x Phoenix Suns - x x
-Rodada 9: Golden State Warriors x Orlando Magic - x x
-Rodada 9: Denver Nuggets x Detroit Pistons - x x
-Rodada 9: Memphis Grizzlies x Philadelphia 76ers - x x
-Rodada 9: Miami Heat x Los Angeles Lakers - x x
-Rodada 9: Cleveland Cavaliers x Milwaukee Bucks - x x
-Rodada 9: New Orleans Pelicans x Minnesota Timberwolves - x x
-Rodada 9: Boston Celtics x Toronto Raptors - x x
-Rodada 9: Chicago Bulls x New York Knicks - x x
-Rodada 9: Sacramento Kings x San Antonio Spurs - x x
+Rodada 9: Houston Rockets x Phoenix Suns - 120 136
+Rodada 9: Golden State Warriors x Orlando Magic - 117 113
+Rodada 9: Denver Nuggets x Detroit Pistons - 123 116
+Rodada 9: Memphis Grizzlies x Philadelphia 76ers - 119 122
+Rodada 9: Miami Heat x Los Angeles Lakers - 110 94
+Rodada 9: Cleveland Cavaliers x Milwaukee Bucks - 94 122
+Rodada 9: New Orleans Pelicans x Minnesota Timberwolves - 115 116
+Rodada 9: Toronto Raptors x Boston Celtics - 96 139
+Rodada 9: Chicago Bulls x New York Knicks - 123 129
+Rodada 9: Sacramento Kings x San Antonio Spurs - 131 135
 Rodada 10: Orlando Magic x Houston Rockets - x x
 Rodada 10: Phoenix Suns x Detroit Pistons - x x
 Rodada 10: Golden State Warriors x Philadelphia 76ers - x x
@@ -275,7 +275,7 @@ Rodada 28: Philadelphia 76ers x Memphis Grizzlies - x x
 Rodada 28: Los Angeles Lakers x Miami Heat - x x
 Rodada 28: Milwaukee Bucks x Cleveland Cavaliers - x x
 Rodada 28: Minnesota Timberwolves x New Orleans Pelicans - x x
-Rodada 28: Toronto Raptors x Boston Celtics - x x
+Rodada 28: Boston Celtics x Toronto Raptors - x x
 Rodada 28: New York Knicks x Chicago Bulls - x x
 Rodada 28: San Antonio Spurs x Sacramento Kings - x x
 Rodada 29: Houston Rockets x Orlando Magic - x x
