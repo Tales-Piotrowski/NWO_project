@@ -88,16 +88,16 @@ Rodada 9: New Orleans Pelicans x Minnesota Timberwolves - 115 116
 Rodada 9: Toronto Raptors x Boston Celtics - 96 139
 Rodada 9: Chicago Bulls x New York Knicks - 123 129
 Rodada 9: Sacramento Kings x San Antonio Spurs - 131 135
-Rodada 10: Orlando Magic x Houston Rockets - x x
-Rodada 10: Phoenix Suns x Detroit Pistons - x x
-Rodada 10: Golden State Warriors x Philadelphia 76ers - x x
-Rodada 10: Denver Nuggets x Los Angeles Lakers - x x
-Rodada 10: Memphis Grizzlies x Milwaukee Bucks - x x
-Rodada 10: Miami Heat x Minnesota Timberwolves - x x
-Rodada 10: Cleveland Cavaliers x Toronto Raptors - x x
-Rodada 10: New Orleans Pelicans x New York Knicks - x x
-Rodada 10: Boston Celtics x Sacramento Kings - x x
-Rodada 10: Chicago Bulls x San Antonio Spurs - x x
+Rodada 10: Orlando Magic x Houston Rockets - 103 106
+Rodada 10: Phoenix Suns x Detroit Pistons - 119 114
+Rodada 10: Golden State Warriors x Philadelphia 76ers - 102 106
+Rodada 10: Los Angeles Lakers x Denver Nuggets - 114 108
+Rodada 10: Memphis Grizzlies x Milwaukee Bucks - 115 126
+Rodada 10: Miami Heat x Minnesota Timberwolves - 120 134
+Rodada 10: Cleveland Cavaliers x Toronto Raptors - 91 111
+Rodada 10: New York Knicks x New Orleans Pelicans - 106 122
+Rodada 10: Boston Celtics x Sacramento Kings - 120 117
+Rodada 10: Chicago Bulls x San Antonio Spurs - 126 119
 Rodada 11: Detroit Pistons x Houston Rockets - x x
 Rodada 11: Orlando Magic x Philadelphia 76ers - x x
 Rodada 11: Phoenix Suns x Los Angeles Lakers - x x
@@ -281,11 +281,11 @@ Rodada 28: San Antonio Spurs x Sacramento Kings - x x
 Rodada 29: Houston Rockets x Orlando Magic - x x
 Rodada 29: Detroit Pistons x Phoenix Suns - x x
 Rodada 29: Philadelphia 76ers x Golden State Warriors - x x
-Rodada 29: Los Angeles Lakers x Denver Nuggets - x x
+Rodada 29: Denver Nuggets x Los Angeles Lakers - x x
 Rodada 29: Milwaukee Bucks x Memphis Grizzlies - x x
 Rodada 29: Minnesota Timberwolves x Miami Heat - x x
 Rodada 29: Toronto Raptors x Cleveland Cavaliers - x x
-Rodada 29: New York Knicks x New Orleans Pelicans - x x
+Rodada 29: New Orleans Pelicans x New York Knicks - x x
 Rodada 29: Sacramento Kings x Boston Celtics - x x
 Rodada 29: San Antonio Spurs x Chicago Bulls - x x
 Rodada 30: Houston Rockets x Detroit Pistons - x x
