@@ -98,16 +98,16 @@ Rodada 10: Cleveland Cavaliers x Toronto Raptors - 91 111
 Rodada 10: New York Knicks x New Orleans Pelicans - 106 122
 Rodada 10: Boston Celtics x Sacramento Kings - 120 117
 Rodada 10: Chicago Bulls x San Antonio Spurs - 126 119
-Rodada 11: Detroit Pistons x Houston Rockets - x x
-Rodada 11: Orlando Magic x Philadelphia 76ers - x x
-Rodada 11: Phoenix Suns x Los Angeles Lakers - x x
-Rodada 11: Golden State Warriors x Milwaukee Bucks - x x
-Rodada 11: Denver Nuggets x Minnesota Timberwolves - x x
-Rodada 11: Memphis Grizzlies x Toronto Raptors - x x
-Rodada 11: Miami Heat x New York Knicks - x x
-Rodada 11: Cleveland Cavaliers x Sacramento Kings - x x
-Rodada 11: San Antonio Spurs x New Orleans Pelicans - x x
-Rodada 11: Boston Celtics x Chicago Bulls - x x
+Rodada 11: Detroit Pistons x Houston Rockets - 126 111
+Rodada 11: Orlando Magic x Philadelphia 76ers - 146 150
+Rodada 11: Phoenix Suns x Los Angeles Lakers - 111 109
+Rodada 11: Golden State Warriors x Milwaukee Bucks - 124 125
+Rodada 11: Denver Nuggets x Minnesota Timberwolves - 94 125
+Rodada 11: Memphis Grizzlies x Toronto Raptors - 103 93
+Rodada 11: Miami Heat x New York Knicks - 109 135
+Rodada 11: Cleveland Cavaliers x Sacramento Kings - 110 102
+Rodada 11: San Antonio Spurs x New Orleans Pelicans - 130 127
+Rodada 11: Boston Celtics x Chicago Bulls - 112 125
 Rodada 12: Houston Rockets x Philadelphia 76ers - x x
 Rodada 12: Detroit Pistons x Los Angeles Lakers - x x
 Rodada 12: Orlando Magic x Milwaukee Bucks - x x
