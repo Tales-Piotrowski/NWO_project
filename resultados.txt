@@ -108,16 +108,16 @@ Rodada 11: Miami Heat x New York Knicks - 109 135
 Rodada 11: Cleveland Cavaliers x Sacramento Kings - 110 102
 Rodada 11: San Antonio Spurs x New Orleans Pelicans - 130 127
 Rodada 11: Boston Celtics x Chicago Bulls - 112 125
-Rodada 12: Houston Rockets x Philadelphia 76ers - x x
-Rodada 12: Detroit Pistons x Los Angeles Lakers - x x
-Rodada 12: Orlando Magic x Milwaukee Bucks - x x
-Rodada 12: Phoenix Suns x Minnesota Timberwolves - x x
-Rodada 12: Golden State Warriors x Toronto Raptors - x x
-Rodada 12: Denver Nuggets x New York Knicks - x x
-Rodada 12: Memphis Grizzlies x Sacramento Kings - x x
-Rodada 12: Miami Heat x San Antonio Spurs - x x
-Rodada 12: Cleveland Cavaliers x Chicago Bulls - x x
-Rodada 12: New Orleans Pelicans x Boston Celtics - x x
+Rodada 12: Houston Rockets x Philadelphia 76ers - 119 154
+Rodada 12: Detroit Pistons x Los Angeles Lakers - 97 112
+Rodada 12: Orlando Magic x Milwaukee Bucks - 100 110
+Rodada 12: Phoenix Suns x Minnesota Timberwolves - 114 120
+Rodada 12: Golden State Warriors x Toronto Raptors - 108 109
+Rodada 12: Denver Nuggets x New York Knicks - 131 116
+Rodada 12: Memphis Grizzlies x Sacramento Kings - 91 106
+Rodada 12: Miami Heat x San Antonio Spurs - 108 122
+Rodada 12: Cleveland Cavaliers x Chicago Bulls - 130 139
+Rodada 12: New Orleans Pelicans x Boston Celtics - 135 140
 Rodada 13: Houston Rockets x Los Angeles Lakers - x x
 Rodada 13: Philadelphia 76ers x Milwaukee Bucks - x x
 Rodada 13: Detroit Pistons x Minnesota Timberwolves - x x
@@ -127,7 +127,7 @@ Rodada 13: Golden State Warriors x Sacramento Kings - x x
 Rodada 13: Denver Nuggets x San Antonio Spurs - x x
 Rodada 13: Memphis Grizzlies x Chicago Bulls - x x
 Rodada 13: Miami Heat x Boston Celtics - x x
-Rodada 13: Cleveland Cavaliers x New Orleans Pelicans - x x
+Rodada 13: New Orleans Pelicans x Cleveland Cavaliers - x x
 Rodada 14: Houston Rockets x Milwaukee Bucks - x x
 Rodada 14: Los Angeles Lakers x Minnesota Timberwolves - x x
 Rodada 14: Philadelphia 76ers x Toronto Raptors - x x
@@ -164,7 +164,7 @@ Rodada 17: Minnesota Timberwolves x San Antonio Spurs - x x
 Rodada 17: Milwaukee Bucks x Chicago Bulls - x x
 Rodada 17: Los Angeles Lakers x Boston Celtics - x x
 Rodada 17: Philadelphia 76ers x New Orleans Pelicans - x x
-Rodada 17: Detroit Pistons x Cleveland Cavaliers - x x
+Rodada 17: Cleveland Cavaliers x Detroit Pistons - x x
 Rodada 17: Orlando Magic x Miami Heat - x x
 Rodada 17: Phoenix Suns x Memphis Grizzlies - x x
 Rodada 17: Golden State Warriors x Denver Nuggets - x x
@@ -182,7 +182,7 @@ Rodada 19: Houston Rockets x San Antonio Spurs - x x
 Rodada 19: Sacramento Kings x Chicago Bulls - x x
 Rodada 19: New York Knicks x Boston Celtics - x x
 Rodada 19: Toronto Raptors x New Orleans Pelicans - x x
-Rodada 19: Minnesota Timberwolves x Cleveland Cavaliers - x x
+Rodada 19: Cleveland Cavaliers x Minnesota Timberwolves - x x
 Rodada 19: Milwaukee Bucks x Miami Heat - x x
 Rodada 19: Los Angeles Lakers x Memphis Grizzlies - x x
 Rodada 19: Philadelphia 76ers x Denver Nuggets - x x
@@ -317,7 +317,7 @@ Rodada 32: Sacramento Kings x Golden State Warriors - x x
 Rodada 32: San Antonio Spurs x Denver Nuggets - x x
 Rodada 32: Chicago Bulls x Memphis Grizzlies - x x
 Rodada 32: Boston Celtics x Miami Heat - x x
-Rodada 32: New Orleans Pelicans x Cleveland Cavaliers - x x
+Rodada 32: Cleveland Cavaliers x New Orleans Pelicans - x x
 Rodada 33: Milwaukee Bucks x Houston Rockets - x x
 Rodada 33: Minnesota Timberwolves x Los Angeles Lakers - x x
 Rodada 33: Toronto Raptors x Philadelphia 76ers - x x
@@ -354,7 +354,7 @@ Rodada 36: San Antonio Spurs x Minnesota Timberwolves - x x
 Rodada 36: Chicago Bulls x Milwaukee Bucks - x x
 Rodada 36: Boston Celtics x Los Angeles Lakers - x x
 Rodada 36: New Orleans Pelicans x Philadelphia 76ers - x x
-Rodada 36: Cleveland Cavaliers x Detroit Pistons - x x
+Rodada 36: Detroit Pistons x Cleveland Cavaliers - x x
 Rodada 36: Miami Heat x Orlando Magic - x x
 Rodada 36: Memphis Grizzlies x Phoenix Suns - x x
 Rodada 36: Denver Nuggets x Golden State Warriors - x x
@@ -372,7 +372,7 @@ Rodada 38: San Antonio Spurs x Houston Rockets - x x
 Rodada 38: Chicago Bulls x Sacramento Kings - x x
 Rodada 38: Boston Celtics x New York Knicks - x x
 Rodada 38: New Orleans Pelicans x Toronto Raptors - x x
-Rodada 38: Cleveland Cavaliers x Minnesota Timberwolves - x x
+Rodada 38: Minnesota Timberwolves x Cleveland Cavaliers - x x
 Rodada 38: Miami Heat x Milwaukee Bucks - x x
 Rodada 38: Memphis Grizzlies x Los Angeles Lakers - x x
 Rodada 38: Denver Nuggets x Philadelphia 76ers - x x
