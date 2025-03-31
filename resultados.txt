@@ -118,16 +118,16 @@ Rodada 12: Memphis Grizzlies x Sacramento Kings - 91 106
 Rodada 12: Miami Heat x San Antonio Spurs - 108 122
 Rodada 12: Cleveland Cavaliers x Chicago Bulls - 130 139
 Rodada 12: New Orleans Pelicans x Boston Celtics - 135 140
-Rodada 13: Houston Rockets x Los Angeles Lakers - x x
-Rodada 13: Philadelphia 76ers x Milwaukee Bucks - x x
-Rodada 13: Detroit Pistons x Minnesota Timberwolves - x x
-Rodada 13: Orlando Magic x Toronto Raptors - x x
-Rodada 13: Phoenix Suns x New York Knicks - x x
-Rodada 13: Golden State Warriors x Sacramento Kings - x x
-Rodada 13: Denver Nuggets x San Antonio Spurs - x x
-Rodada 13: Memphis Grizzlies x Chicago Bulls - x x
-Rodada 13: Miami Heat x Boston Celtics - x x
-Rodada 13: New Orleans Pelicans x Cleveland Cavaliers - x x
+Rodada 13: Houston Rockets x Los Angeles Lakers - 118 113
+Rodada 13: Philadelphia 76ers x Milwaukee Bucks - 106 126
+Rodada 13: Detroit Pistons x Minnesota Timberwolves - 133 110
+Rodada 13: Orlando Magic x Toronto Raptors - 106 100
+Rodada 13: Phoenix Suns x New York Knicks - 127 135
+Rodada 13: Golden State Warriors x Sacramento Kings - 126 105
+Rodada 13: Denver Nuggets x San Antonio Spurs - 108 118
+Rodada 13: Memphis Grizzlies x Chicago Bulls - 117 102
+Rodada 13: Miami Heat x Boston Celtics - 137 126
+Rodada 13: New Orleans Pelicans x Cleveland Cavaliers - 125 122
 Rodada 14: Houston Rockets x Milwaukee Bucks - x x
 Rodada 14: Los Angeles Lakers x Minnesota Timberwolves - x x
 Rodada 14: Philadelphia 76ers x Toronto Raptors - x x
