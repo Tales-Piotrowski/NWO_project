@@ -138,16 +138,16 @@ Rodada 14: Golden State Warriors x Chicago Bulls - 126 118
 Rodada 14: Denver Nuggets x Boston Celtics - 136 118
 Rodada 14: Memphis Grizzlies x New Orleans Pelicans - 102 131
 Rodada 14: Miami Heat x Cleveland Cavaliers - 108 117
-Rodada 15: Houston Rockets x Minnesota Timberwolves - x x
-Rodada 15: Milwaukee Bucks x Toronto Raptors - x x
-Rodada 15: Los Angeles Lakers x New York Knicks - x x
-Rodada 15: Philadelphia 76ers x Sacramento Kings - x x
-Rodada 15: Detroit Pistons x San Antonio Spurs - x x
-Rodada 15: Orlando Magic x Chicago Bulls - x x
-Rodada 15: Phoenix Suns x Boston Celtics - x x
-Rodada 15: Golden State Warriors x New Orleans Pelicans - x x
-Rodada 15: Denver Nuggets x Cleveland Cavaliers - x x
-Rodada 15: Memphis Grizzlies x Miami Heat - x x
+Rodada 15: Houston Rockets x Minnesota Timberwolves - 127 124
+Rodada 15: Milwaukee Bucks x Toronto Raptors - 138 134
+Rodada 15: Los Angeles Lakers x New York Knicks - 118 119
+Rodada 15: Philadelphia 76ers x Sacramento Kings - 123 130
+Rodada 15: Detroit Pistons x San Antonio Spurs - 113 143
+Rodada 15: Orlando Magic x Chicago Bulls - 107 103
+Rodada 15: Phoenix Suns x Boston Celtics - 131 150
+Rodada 15: Golden State Warriors x New Orleans Pelicans - 140 126
+Rodada 15: Denver Nuggets x Cleveland Cavaliers - 110 121
+Rodada 15: Memphis Grizzlies x Miami Heat - 116 112
 Rodada 16: Toronto Raptors x Houston Rockets - x x
 Rodada 16: Minnesota Timberwolves x New York Knicks - x x
 Rodada 16: Milwaukee Bucks x Sacramento Kings - x x
