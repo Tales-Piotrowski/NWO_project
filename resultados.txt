@@ -148,16 +148,16 @@ Rodada 15: Phoenix Suns x Boston Celtics - 131 150
 Rodada 15: Golden State Warriors x New Orleans Pelicans - 140 126
 Rodada 15: Denver Nuggets x Cleveland Cavaliers - 110 121
 Rodada 15: Memphis Grizzlies x Miami Heat - 116 112
-Rodada 16: Toronto Raptors x Houston Rockets - x x
-Rodada 16: Minnesota Timberwolves x New York Knicks - x x
-Rodada 16: Milwaukee Bucks x Sacramento Kings - x x
-Rodada 16: San Antonio Spurs x Los Angeles Lakers - x x
-Rodada 16: Philadelphia 76ers x Chicago Bulls - x x
-Rodada 16: Detroit Pistons x Boston Celtics - x x
-Rodada 16: Orlando Magic x New Orleans Pelicans - x x
-Rodada 16: Phoenix Suns x Cleveland Cavaliers - x x
-Rodada 16: Golden State Warriors x Miami Heat - x x
-Rodada 16: Denver Nuggets x Memphis Grizzlies - x x
+Rodada 16: Toronto Raptors x Houston Rockets - 108 114
+Rodada 16: Minnesota Timberwolves x New York Knicks - 146 143
+Rodada 16: Milwaukee Bucks x Sacramento Kings - 108 119
+Rodada 16: San Antonio Spurs x Los Angeles Lakers - 104 101
+Rodada 16: Philadelphia 76ers x Chicago Bulls - 116 125
+Rodada 16: Detroit Pistons x Boston Celtics - 102 99
+Rodada 16: Orlando Magic x New Orleans Pelicans - 124 110
+Rodada 16: Phoenix Suns x Cleveland Cavaliers - 101 100
+Rodada 16: Golden State Warriors x Miami Heat - 125 112
+Rodada 16: Memphis Grizzlies x Denver Nuggets - 99 111
 Rodada 17: Houston Rockets x New York Knicks - x x
 Rodada 17: Toronto Raptors x Sacramento Kings - x x
 Rodada 17: Minnesota Timberwolves x San Antonio Spurs - x x
@@ -347,7 +347,7 @@ Rodada 35: Boston Celtics x Detroit Pistons - x x
 Rodada 35: New Orleans Pelicans x Orlando Magic - x x
 Rodada 35: Cleveland Cavaliers x Phoenix Suns - x x
 Rodada 35: Miami Heat x Golden State Warriors - x x
-Rodada 35: Memphis Grizzlies x Denver Nuggets - x x
+Rodada 35: Denver Nuggets x Memphis Grizzlies - x x
 Rodada 36: New York Knicks x Houston Rockets - x x
 Rodada 36: Sacramento Kings x Toronto Raptors - x x
 Rodada 36: San Antonio Spurs x Minnesota Timberwolves - x x
