@@ -158,16 +158,16 @@ Rodada 16: Orlando Magic x New Orleans Pelicans - 124 110
 Rodada 16: Phoenix Suns x Cleveland Cavaliers - 101 100
 Rodada 16: Golden State Warriors x Miami Heat - 125 112
 Rodada 16: Memphis Grizzlies x Denver Nuggets - 99 111
-Rodada 17: Houston Rockets x New York Knicks - x x
-Rodada 17: Toronto Raptors x Sacramento Kings - x x
-Rodada 17: Minnesota Timberwolves x San Antonio Spurs - x x
-Rodada 17: Milwaukee Bucks x Chicago Bulls - x x
-Rodada 17: Los Angeles Lakers x Boston Celtics - x x
-Rodada 17: Philadelphia 76ers x New Orleans Pelicans - x x
-Rodada 17: Cleveland Cavaliers x Detroit Pistons - x x
-Rodada 17: Orlando Magic x Miami Heat - x x
-Rodada 17: Phoenix Suns x Memphis Grizzlies - x x
-Rodada 17: Golden State Warriors x Denver Nuggets - x x
+Rodada 17: Houston Rockets x New York Knicks - 118 106
+Rodada 17: Toronto Raptors x Sacramento Kings - 125 129
+Rodada 17: Minnesota Timberwolves x San Antonio Spurs - 106 145
+Rodada 17: Milwaukee Bucks x Chicago Bulls - 124 116
+Rodada 17: Los Angeles Lakers x Boston Celtics - 128 133
+Rodada 17: New Orleans Pelicans x Philadelphia 76ers - 129 98
+Rodada 17: Cleveland Cavaliers x Detroit Pistons - 103 112
+Rodada 17: Orlando Magic x Miami Heat - 125 106
+Rodada 17: Phoenix Suns x Memphis Grizzlies - 106 113
+Rodada 17: Golden State Warriors x Denver Nuggets - 119 142
 Rodada 18: Sacramento Kings x Houston Rockets - x x
 Rodada 18: San Antonio Spurs x New York Knicks - x x
 Rodada 18: Toronto Raptors x Chicago Bulls - x x
@@ -353,7 +353,7 @@ Rodada 36: Sacramento Kings x Toronto Raptors - x x
 Rodada 36: San Antonio Spurs x Minnesota Timberwolves - x x
 Rodada 36: Chicago Bulls x Milwaukee Bucks - x x
 Rodada 36: Boston Celtics x Los Angeles Lakers - x x
-Rodada 36: New Orleans Pelicans x Philadelphia 76ers - x x
+Rodada 36: Philadelphia 76ers x New Orleans Pelicans - x x
 Rodada 36: Detroit Pistons x Cleveland Cavaliers - x x
 Rodada 36: Miami Heat x Orlando Magic - x x
 Rodada 36: Memphis Grizzlies x Phoenix Suns - x x
