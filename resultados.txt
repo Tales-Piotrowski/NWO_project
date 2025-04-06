@@ -178,16 +178,16 @@ Rodada 18: Philadelphia 76ers x Miami Heat - 117 124
 Rodada 18: Detroit Pistons x Memphis Grizzlies - 97 122
 Rodada 18: Orlando Magic x Denver Nuggets - 123 122
 Rodada 18: Phoenix Suns x Golden State Warriors - 108 107
-Rodada 19: Houston Rockets x San Antonio Spurs - x x
-Rodada 19: Sacramento Kings x Chicago Bulls - x x
-Rodada 19: New York Knicks x Boston Celtics - x x
-Rodada 19: Toronto Raptors x New Orleans Pelicans - x x
-Rodada 19: Cleveland Cavaliers x Minnesota Timberwolves - x x
-Rodada 19: Milwaukee Bucks x Miami Heat - x x
-Rodada 19: Los Angeles Lakers x Memphis Grizzlies - x x
-Rodada 19: Philadelphia 76ers x Denver Nuggets - x x
-Rodada 19: Detroit Pistons x Golden State Warriors - x x
-Rodada 19: Orlando Magic x Phoenix Suns - x x
+Rodada 19: Houston Rockets x San Antonio Spurs - 130 109
+Rodada 19: Sacramento Kings x Chicago Bulls - 143 111
+Rodada 19: New York Knicks x Boston Celtics - 132 154
+Rodada 19: Toronto Raptors x New Orleans Pelicans - 97 119
+Rodada 19: Cleveland Cavaliers x Minnesota Timberwolves - 137 119
+Rodada 19: Milwaukee Bucks x Miami Heat - 132 115
+Rodada 19: Los Angeles Lakers x Memphis Grizzlies - 112 119
+Rodada 19: Philadelphia 76ers x Denver Nuggets - 117 106
+Rodada 19: Detroit Pistons x Golden State Warriors - 100 124
+Rodada 19: Orlando Magic x Phoenix Suns - 124 91
 Rodada 20: Chicago Bulls x Houston Rockets - x x
 Rodada 20: Boston Celtics x San Antonio Spurs - x x
 Rodada 20: New Orleans Pelicans x Sacramento Kings - x x
