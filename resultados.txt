@@ -198,16 +198,16 @@ Rodada 20: Denver Nuggets x Milwaukee Bucks - 113 119
 Rodada 20: Golden State Warriors x Los Angeles Lakers - 109 119
 Rodada 20: Phoenix Suns x Philadelphia 76ers - 108 118
 Rodada 20: Orlando Magic x Detroit Pistons - 117 125
-Rodada 21: Boston Celtics x Houston Rockets - x x
-Rodada 21: New Orleans Pelicans x Chicago Bulls - x x
-Rodada 21: Cleveland Cavaliers x San Antonio Spurs - x x
-Rodada 21: Miami Heat x Sacramento Kings - x x
-Rodada 21: Memphis Grizzlies x New York Knicks - x x
-Rodada 21: Denver Nuggets x Toronto Raptors - x x
-Rodada 21: Golden State Warriors x Minnesota Timberwolves - x x
-Rodada 21: Phoenix Suns x Milwaukee Bucks - x x
-Rodada 21: Orlando Magic x Los Angeles Lakers - x x
-Rodada 21: Detroit Pistons x Philadelphia 76ers - x x
+Rodada 21: Boston Celtics x Houston Rockets - 127 135
+Rodada 21: New Orleans Pelicans x Chicago Bulls - 120 114
+Rodada 21: Cleveland Cavaliers x San Antonio Spurs - 103 105
+Rodada 21: Miami Heat x Sacramento Kings - 120 97
+Rodada 21: Memphis Grizzlies x New York Knicks - 136 103
+Rodada 21: Denver Nuggets x Toronto Raptors - 123 128
+Rodada 21: Golden State Warriors x Minnesota Timberwolves - 138 113
+Rodada 21: Phoenix Suns x Milwaukee Bucks - 109 139
+Rodada 21: Orlando Magic x Los Angeles Lakers - 102 103
+Rodada 21: Detroit Pistons x Philadelphia 76ers - 90 122
 Rodada 22: Houston Rockets x New Orleans Pelicans - x x
 Rodada 22: Cleveland Cavaliers x Boston Celtics - x x
 Rodada 22: Miami Heat x Chicago Bulls - x x
