@@ -208,16 +208,16 @@ Rodada 21: Golden State Warriors x Minnesota Timberwolves - 138 113
 Rodada 21: Phoenix Suns x Milwaukee Bucks - 109 139
 Rodada 21: Orlando Magic x Los Angeles Lakers - 102 103
 Rodada 21: Detroit Pistons x Philadelphia 76ers - 90 122
-Rodada 22: Houston Rockets x New Orleans Pelicans - x x
-Rodada 22: Cleveland Cavaliers x Boston Celtics - x x
-Rodada 22: Miami Heat x Chicago Bulls - x x
-Rodada 22: Memphis Grizzlies x San Antonio Spurs - x x
-Rodada 22: Denver Nuggets x Sacramento Kings - x x
-Rodada 22: Golden State Warriors x New York Knicks - x x
-Rodada 22: Phoenix Suns x Toronto Raptors - x x
-Rodada 22: Orlando Magic x Minnesota Timberwolves - x x
-Rodada 22: Milwaukee Bucks x Detroit Pistons - x x
-Rodada 22: Philadelphia 76ers x Los Angeles Lakers - x x
+Rodada 22: Houston Rockets x New Orleans Pelicans - 92 108
+Rodada 22: Cleveland Cavaliers x Boston Celtics - 110 105
+Rodada 22: Miami Heat x Chicago Bulls - 132 133
+Rodada 22: Memphis Grizzlies x San Antonio Spurs - 115 98
+Rodada 22: Denver Nuggets x Sacramento Kings - 140 115
+Rodada 22: Golden State Warriors x New York Knicks - 137 112
+Rodada 22: Phoenix Suns x Toronto Raptors - 94 117
+Rodada 22: Orlando Magic x Minnesota Timberwolves - 130 116
+Rodada 22: Milwaukee Bucks x Detroit Pistons - 122 121
+Rodada 22: Philadelphia 76ers x Los Angeles Lakers - 109 98
 Rodada 23: Houston Rockets x Cleveland Cavaliers - x x
 Rodada 23: Miami Heat x New Orleans Pelicans - x x
 Rodada 23: Memphis Grizzlies x Boston Celtics - x x
