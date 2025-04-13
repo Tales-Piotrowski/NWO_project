@@ -228,26 +228,26 @@ Rodada 23: Orlando Magic x New York Knicks - 116 107
 Rodada 23: Detroit Pistons x Toronto Raptors - 122 111
 Rodada 23: Philadelphia 76ers x Minnesota Timberwolves - 145 101
 Rodada 23: Los Angeles Lakers x Milwaukee Bucks - 99 117
-Rodada 24: Miami Heat x Houston Rockets - x x
-Rodada 24: Memphis Grizzlies x Cleveland Cavaliers - x x
-Rodada 24: Denver Nuggets x New Orleans Pelicans - x x
-Rodada 24: Golden State Warriors x Boston Celtics - x x
-Rodada 24: Phoenix Suns x Chicago Bulls - x x
-Rodada 24: San Antonio Spurs x Orlando Magic - x x
-Rodada 24: Detroit Pistons x Sacramento Kings - x x
-Rodada 24: Philadelphia 76ers x New York Knicks - x x
-Rodada 24: Los Angeles Lakers x Toronto Raptors - x x
-Rodada 24: Milwaukee Bucks x Minnesota Timberwolves - x x
-Rodada 25: Houston Rockets x Memphis Grizzlies - x x
-Rodada 25: Denver Nuggets x Miami Heat - x x
-Rodada 25: Golden State Warriors x Cleveland Cavaliers - x x
-Rodada 25: Phoenix Suns x New Orleans Pelicans - x x
-Rodada 25: Orlando Magic x Boston Celtics - x x
-Rodada 25: Detroit Pistons x Chicago Bulls - x x
-Rodada 25: San Antonio Spurs x Philadelphia 76ers - x x
-Rodada 25: Los Angeles Lakers x Sacramento Kings - x x
-Rodada 25: Milwaukee Bucks x New York Knicks - x x
-Rodada 25: Minnesota Timberwolves x Toronto Raptors - x x
+Rodada 24: Miami Heat x Houston Rockets - 118 103
+Rodada 24: Memphis Grizzlies x Cleveland Cavaliers - 123 120
+Rodada 24: Denver Nuggets x New Orleans Pelicans - 107 124
+Rodada 24: Golden State Warriors x Boston Celtics - 107 122
+Rodada 24: Phoenix Suns x Chicago Bulls - 114 104
+Rodada 24: San Antonio Spurs x Orlando Magic - 108 110
+Rodada 24: Detroit Pistons x Sacramento Kings - 132 136
+Rodada 24: Philadelphia 76ers x New York Knicks - 135 107
+Rodada 24: Los Angeles Lakers x Toronto Raptors - 124 134
+Rodada 24: Milwaukee Bucks x Minnesota Timberwolves - 151 111
+Rodada 25: Houston Rockets x Memphis Grizzlies - 116 131
+Rodada 25: Denver Nuggets x Miami Heat - 120 97
+Rodada 25: Golden State Warriors x Cleveland Cavaliers - 136 134
+Rodada 25: Phoenix Suns x New Orleans Pelicans - 99 128
+Rodada 25: Orlando Magic x Boston Celtics - 94 110
+Rodada 25: Detroit Pistons x Chicago Bulls - 127 113
+Rodada 25: San Antonio Spurs x Philadelphia 76ers - 91 109
+Rodada 25: Los Angeles Lakers x Sacramento Kings - 126 108
+Rodada 25: Milwaukee Bucks x New York Knicks - 119 120
+Rodada 25: Minnesota Timberwolves x Toronto Raptors - 113 140
 Rodada 26: Denver Nuggets x Houston Rockets - x x
 Rodada 26: Golden State Warriors x Memphis Grizzlies - x x
 Rodada 26: Phoenix Suns x Miami Heat - x x
