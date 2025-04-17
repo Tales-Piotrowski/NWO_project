@@ -268,16 +268,16 @@ Rodada 27: Milwaukee Bucks x Boston Celtics - 122 125
 Rodada 27: Minnesota Timberwolves x Chicago Bulls - 115 136
 Rodada 27: Toronto Raptors x San Antonio Spurs - 117 121
 Rodada 27: New York Knicks x Sacramento Kings - 151 112
-Rodada 28: Phoenix Suns x Houston Rockets - x x
-Rodada 28: Orlando Magic x Golden State Warriors - x x
-Rodada 28: Detroit Pistons x Denver Nuggets - x x
-Rodada 28: Philadelphia 76ers x Memphis Grizzlies - x x
-Rodada 28: Los Angeles Lakers x Miami Heat - x x
-Rodada 28: Milwaukee Bucks x Cleveland Cavaliers - x x
-Rodada 28: Minnesota Timberwolves x New Orleans Pelicans - x x
-Rodada 28: Boston Celtics x Toronto Raptors - x x
-Rodada 28: New York Knicks x Chicago Bulls - x x
-Rodada 28: San Antonio Spurs x Sacramento Kings - x x
+Rodada 28: Phoenix Suns x Houston Rockets - 129 136
+Rodada 28: Orlando Magic x Golden State Warriors - 126 128
+Rodada 28: Detroit Pistons x Denver Nuggets - 108 122
+Rodada 28: Philadelphia 76ers x Memphis Grizzlies - 129 128
+Rodada 28: Los Angeles Lakers x Miami Heat - 105 107
+Rodada 28: Milwaukee Bucks x Cleveland Cavaliers - 114 133
+Rodada 28: Minnesota Timberwolves x New Orleans Pelicans - 128 122
+Rodada 28: Boston Celtics x Toronto Raptors - 114 141
+Rodada 28: New York Knicks x Chicago Bulls - 130 123
+Rodada 28: San Antonio Spurs x Sacramento Kings - 123 106
 Rodada 29: Houston Rockets x Orlando Magic - x x
 Rodada 29: Detroit Pistons x Phoenix Suns - x x
 Rodada 29: Philadelphia 76ers x Golden State Warriors - x x
