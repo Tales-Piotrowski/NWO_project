@@ -278,26 +278,26 @@ Rodada 28: Minnesota Timberwolves x New Orleans Pelicans - 128 122
 Rodada 28: Boston Celtics x Toronto Raptors - 114 141
 Rodada 28: New York Knicks x Chicago Bulls - 130 123
 Rodada 28: San Antonio Spurs x Sacramento Kings - 123 106
-Rodada 29: Houston Rockets x Orlando Magic - x x
-Rodada 29: Detroit Pistons x Phoenix Suns - x x
-Rodada 29: Philadelphia 76ers x Golden State Warriors - x x
-Rodada 29: Denver Nuggets x Los Angeles Lakers - x x
-Rodada 29: Milwaukee Bucks x Memphis Grizzlies - x x
-Rodada 29: Minnesota Timberwolves x Miami Heat - x x
-Rodada 29: Toronto Raptors x Cleveland Cavaliers - x x
-Rodada 29: New Orleans Pelicans x New York Knicks - x x
-Rodada 29: Sacramento Kings x Boston Celtics - x x
-Rodada 29: San Antonio Spurs x Chicago Bulls - x x
-Rodada 30: Houston Rockets x Detroit Pistons - x x
-Rodada 30: Philadelphia 76ers x Orlando Magic - x x
-Rodada 30: Los Angeles Lakers x Phoenix Suns - x x
-Rodada 30: Milwaukee Bucks x Golden State Warriors - x x
-Rodada 30: Minnesota Timberwolves x Denver Nuggets - x x
-Rodada 30: Toronto Raptors x Memphis Grizzlies - x x
-Rodada 30: New York Knicks x Miami Heat - x x
-Rodada 30: Sacramento Kings x Cleveland Cavaliers - x x
-Rodada 30: New Orleans Pelicans x San Antonio Spurs - x x
-Rodada 30: Chicago Bulls x Boston Celtics - x x
+Rodada 29: Houston Rockets x Orlando Magic - 104 147
+Rodada 29: Detroit Pistons x Phoenix Suns - 123 111
+Rodada 29: Philadelphia 76ers x Golden State Warriors - 118 106
+Rodada 29: Denver Nuggets x Los Angeles Lakers - 126 147
+Rodada 29: Milwaukee Bucks x Memphis Grizzlies - 114 99
+Rodada 29: Minnesota Timberwolves x Miami Heat - 143 86
+Rodada 29: Toronto Raptors x Cleveland Cavaliers - 130 123
+Rodada 29: New Orleans Pelicans x New York Knicks - 135 105
+Rodada 29: Sacramento Kings x Boston Celtics - 111 140
+Rodada 29: San Antonio Spurs x Chicago Bulls - 134 97
+Rodada 30: Houston Rockets x Detroit Pistons - 119 135
+Rodada 30: Philadelphia 76ers x Orlando Magic - 123 106
+Rodada 30: Los Angeles Lakers x Phoenix Suns - 139 120
+Rodada 30: Milwaukee Bucks x Golden State Warriors - 109 130
+Rodada 30: Minnesota Timberwolves x Denver Nuggets - 103 114
+Rodada 30: Toronto Raptors x Memphis Grizzlies - 112 103
+Rodada 30: New York Knicks x Miami Heat - 124 107
+Rodada 30: Sacramento Kings x Cleveland Cavaliers - 126 115
+Rodada 30: New Orleans Pelicans x San Antonio Spurs - 117 127
+Rodada 30: Chicago Bulls x Boston Celtics - 136 139
 Rodada 31: Philadelphia 76ers x Houston Rockets - x x
 Rodada 31: Los Angeles Lakers x Detroit Pistons - x x
 Rodada 31: Milwaukee Bucks x Orlando Magic - x x
