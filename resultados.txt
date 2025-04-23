@@ -298,16 +298,16 @@ Rodada 30: New York Knicks x Miami Heat - 124 107
 Rodada 30: Sacramento Kings x Cleveland Cavaliers - 126 115
 Rodada 30: New Orleans Pelicans x San Antonio Spurs - 117 127
 Rodada 30: Chicago Bulls x Boston Celtics - 136 139
-Rodada 31: Philadelphia 76ers x Houston Rockets - x x
-Rodada 31: Los Angeles Lakers x Detroit Pistons - x x
-Rodada 31: Milwaukee Bucks x Orlando Magic - x x
-Rodada 31: Minnesota Timberwolves x Phoenix Suns - x x
-Rodada 31: Toronto Raptors x Golden State Warriors - x x
-Rodada 31: New York Knicks x Denver Nuggets - x x
-Rodada 31: Sacramento Kings x Memphis Grizzlies - x x
-Rodada 31: San Antonio Spurs x Miami Heat - x x
-Rodada 31: Chicago Bulls x Cleveland Cavaliers - x x
-Rodada 31: Boston Celtics x New Orleans Pelicans - x x
+Rodada 31: Philadelphia 76ers x Houston Rockets - 142 112
+Rodada 31: Los Angeles Lakers x Detroit Pistons - 138 111
+Rodada 31: Milwaukee Bucks x Orlando Magic - 94 108
+Rodada 31: Minnesota Timberwolves x Phoenix Suns - 125 127
+Rodada 31: Toronto Raptors x Golden State Warriors - 106 111
+Rodada 31: New York Knicks x Denver Nuggets - 105 136
+Rodada 31: Sacramento Kings x Memphis Grizzlies - 100 110
+Rodada 31: San Antonio Spurs x Miami Heat - 112 104
+Rodada 31: Chicago Bulls x Cleveland Cavaliers - 107 115
+Rodada 31: Boston Celtics x New Orleans Pelicans - 131 134
 Rodada 32: Los Angeles Lakers x Houston Rockets - x x
 Rodada 32: Milwaukee Bucks x Philadelphia 76ers - x x
 Rodada 32: Minnesota Timberwolves x Detroit Pistons - x x
