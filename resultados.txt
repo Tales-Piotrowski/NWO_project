@@ -338,16 +338,16 @@ Rodada 34: Boston Celtics x Phoenix Suns - 121 112
 Rodada 34: New Orleans Pelicans x Golden State Warriors - 101 94
 Rodada 34: Cleveland Cavaliers x Denver Nuggets - 137 131
 Rodada 34: Miami Heat x Memphis Grizzlies - 83 95
-Rodada 35: Houston Rockets x Toronto Raptors - x x
-Rodada 35: New York Knicks x Minnesota Timberwolves - x x
-Rodada 35: Sacramento Kings x Milwaukee Bucks - x x
-Rodada 35: Los Angeles Lakers x San Antonio Spurs - x x
-Rodada 35: Chicago Bulls x Philadelphia 76ers - x x
-Rodada 35: Boston Celtics x Detroit Pistons - x x
-Rodada 35: New Orleans Pelicans x Orlando Magic - x x
+Rodada 35: Houston Rockets x Toronto Raptors - 107 101
+Rodada 35: New York Knicks x Minnesota Timberwolves - 129 146
+Rodada 35: Sacramento Kings x Milwaukee Bucks - 137 125
+Rodada 35: Los Angeles Lakers x San Antonio Spurs - 125 126
+Rodada 35: Chicago Bulls x Philadelphia 76ers - 103 123
+Rodada 35: Boston Celtics x Detroit Pistons - 118 121
+Rodada 35: New Orleans Pelicans x Orlando Magic - 108 114
 Rodada 35: Cleveland Cavaliers x Phoenix Suns - x x
 Rodada 35: Miami Heat x Golden State Warriors - x x
-Rodada 35: Denver Nuggets x Memphis Grizzlies - x x
+Rodada 35: Denver Nuggets x Memphis Grizzlies - 120 134
 Rodada 36: New York Knicks x Houston Rockets - x x
 Rodada 36: Sacramento Kings x Toronto Raptors - x x
 Rodada 36: San Antonio Spurs x Minnesota Timberwolves - x x
