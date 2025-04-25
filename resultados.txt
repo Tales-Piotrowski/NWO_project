@@ -318,26 +318,26 @@ Rodada 32: San Antonio Spurs x Denver Nuggets - 116 94
 Rodada 32: Chicago Bulls x Memphis Grizzlies - 130 150
 Rodada 32: Boston Celtics x Miami Heat - 123 117
 Rodada 32: Cleveland Cavaliers x New Orleans Pelicans - 121 118
-Rodada 33: Milwaukee Bucks x Houston Rockets - x x
-Rodada 33: Minnesota Timberwolves x Los Angeles Lakers - x x
-Rodada 33: Toronto Raptors x Philadelphia 76ers - x x
-Rodada 33: New York Knicks x Detroit Pistons - x x
-Rodada 33: Sacramento Kings x Orlando Magic - x x
-Rodada 33: San Antonio Spurs x Phoenix Suns - x x
-Rodada 33: Chicago Bulls x Golden State Warriors - x x
-Rodada 33: Boston Celtics x Denver Nuggets - x x
-Rodada 33: New Orleans Pelicans x Memphis Grizzlies - x x
-Rodada 33: Cleveland Cavaliers x Miami Heat - x x
-Rodada 34: Minnesota Timberwolves x Houston Rockets - x x
-Rodada 34: Toronto Raptors x Milwaukee Bucks - x x
-Rodada 34: New York Knicks x Los Angeles Lakers - x x
-Rodada 34: Sacramento Kings x Philadelphia 76ers - x x
-Rodada 34: San Antonio Spurs x Detroit Pistons - x x
-Rodada 34: Chicago Bulls x Orlando Magic - x x
-Rodada 34: Boston Celtics x Phoenix Suns - x x
-Rodada 34: New Orleans Pelicans x Golden State Warriors - x x
-Rodada 34: Cleveland Cavaliers x Denver Nuggets - x x
-Rodada 34: Miami Heat x Memphis Grizzlies - x x
+Rodada 33: Milwaukee Bucks x Houston Rockets - 135 118
+Rodada 33: Minnesota Timberwolves x Los Angeles Lakers - 128 126
+Rodada 33: Toronto Raptors x Philadelphia 76ers - 105 135
+Rodada 33: New York Knicks x Detroit Pistons - 105 123
+Rodada 33: Sacramento Kings x Orlando Magic - 153 158
+Rodada 33: San Antonio Spurs x Phoenix Suns - 113 117
+Rodada 33: Chicago Bulls x Golden State Warriors - 103 121
+Rodada 33: Boston Celtics x Denver Nuggets - 108 140
+Rodada 33: New Orleans Pelicans x Memphis Grizzlies - 132 122
+Rodada 33: Cleveland Cavaliers x Miami Heat - 126 116
+Rodada 34: Minnesota Timberwolves x Houston Rockets - 141 128
+Rodada 34: Toronto Raptors x Milwaukee Bucks - 132 112
+Rodada 34: New York Knicks x Los Angeles Lakers - 98 125
+Rodada 34: Sacramento Kings x Philadelphia 76ers - 124 134
+Rodada 34: San Antonio Spurs x Detroit Pistons - 129 114
+Rodada 34: Chicago Bulls x Orlando Magic - 101 113
+Rodada 34: Boston Celtics x Phoenix Suns - 121 112
+Rodada 34: New Orleans Pelicans x Golden State Warriors - 101 94
+Rodada 34: Cleveland Cavaliers x Denver Nuggets - 137 131
+Rodada 34: Miami Heat x Memphis Grizzlies - 83 95
 Rodada 35: Houston Rockets x Toronto Raptors - x x
 Rodada 35: New York Knicks x Minnesota Timberwolves - x x
 Rodada 35: Sacramento Kings x Milwaukee Bucks - x x
