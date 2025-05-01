@@ -348,33 +348,33 @@ Rodada 35: New Orleans Pelicans x Orlando Magic - 108 114
 Rodada 35: Cleveland Cavaliers x Phoenix Suns - 129 123
 Rodada 35: Miami Heat x Golden State Warriors - 88 136
 Rodada 35: Denver Nuggets x Memphis Grizzlies - 120 134
-Rodada 36: New York Knicks x Houston Rockets - x x
-Rodada 36: Sacramento Kings x Toronto Raptors - x x
-Rodada 36: San Antonio Spurs x Minnesota Timberwolves - x x
-Rodada 36: Chicago Bulls x Milwaukee Bucks - x x
-Rodada 36: Boston Celtics x Los Angeles Lakers - x x
-Rodada 36: Philadelphia 76ers x New Orleans Pelicans - x x
-Rodada 36: Detroit Pistons x Cleveland Cavaliers - x x
-Rodada 36: Miami Heat x Orlando Magic - x x
-Rodada 36: Memphis Grizzlies x Phoenix Suns - x x
-Rodada 36: Denver Nuggets x Golden State Warriors - x x
-Rodada 37: Houston Rockets x Sacramento Kings - x x
-Rodada 37: New York Knicks x San Antonio Spurs - x x
-Rodada 37: Chicago Bulls x Toronto Raptors - x x
-Rodada 37: Boston Celtics x Minnesota Timberwolves - x x
-Rodada 37: New Orleans Pelicans x Milwaukee Bucks - x x
-Rodada 37: Cleveland Cavaliers x Los Angeles Lakers - x x
-Rodada 37: Miami Heat x Philadelphia 76ers - x x
-Rodada 37: Memphis Grizzlies x Detroit Pistons - x x
-Rodada 37: Denver Nuggets x Orlando Magic - x x
-Rodada 37: Golden State Warriors x Phoenix Suns - x x
-Rodada 38: San Antonio Spurs x Houston Rockets - x x
-Rodada 38: Chicago Bulls x Sacramento Kings - x x
-Rodada 38: Boston Celtics x New York Knicks - x x
-Rodada 38: New Orleans Pelicans x Toronto Raptors - x x
-Rodada 38: Minnesota Timberwolves x Cleveland Cavaliers - x x
-Rodada 38: Miami Heat x Milwaukee Bucks - x x
-Rodada 38: Memphis Grizzlies x Los Angeles Lakers - x x
-Rodada 38: Denver Nuggets x Philadelphia 76ers - x x
-Rodada 38: Golden State Warriors x Detroit Pistons - x x
-Rodada 38: Phoenix Suns x Orlando Magic - x x
+Rodada 36: New York Knicks x Houston Rockets - 120 138
+Rodada 36: Sacramento Kings x Toronto Raptors - 112 102
+Rodada 36: San Antonio Spurs x Minnesota Timberwolves - 122 128
+Rodada 36: Chicago Bulls x Milwaukee Bucks - 96 135
+Rodada 36: Boston Celtics x Los Angeles Lakers - 110 135
+Rodada 36: Philadelphia 76ers x New Orleans Pelicans - 152 119
+Rodada 36: Detroit Pistons x Cleveland Cavaliers - 128 132
+Rodada 36: Miami Heat x Orlando Magic - 92 114
+Rodada 36: Memphis Grizzlies x Phoenix Suns - 105 81
+Rodada 36: Denver Nuggets x Golden State Warriors - 122 129
+Rodada 37: Houston Rockets x Sacramento Kings - 116 132
+Rodada 37: New York Knicks x San Antonio Spurs - 104 107
+Rodada 37: Chicago Bulls x Toronto Raptors - 90 117
+Rodada 37: Boston Celtics x Minnesota Timberwolves - 133 143
+Rodada 37: New Orleans Pelicans x Milwaukee Bucks - 108 128
+Rodada 37: Cleveland Cavaliers x Los Angeles Lakers - 110 122
+Rodada 37: Miami Heat x Philadelphia 76ers - 109 106
+Rodada 37: Memphis Grizzlies x Detroit Pistons - 112 123
+Rodada 37: Denver Nuggets x Orlando Magic - 115 125
+Rodada 37: Golden State Warriors x Phoenix Suns - 122 112
+Rodada 38: San Antonio Spurs x Houston Rockets - 127 115
+Rodada 38: Chicago Bulls x Sacramento Kings - 143 136
+Rodada 38: Boston Celtics x New York Knicks - 115 112
+Rodada 38: New Orleans Pelicans x Toronto Raptors - 118 125
+Rodada 38: Minnesota Timberwolves x Cleveland Cavaliers - 106 108
+Rodada 38: Miami Heat x Milwaukee Bucks - 105 127
+Rodada 38: Memphis Grizzlies x Los Angeles Lakers - 134 133
+Rodada 38: Denver Nuggets x Philadelphia 76ers - 117 127
+Rodada 38: Golden State Warriors x Detroit Pistons - 105 101
+Rodada 38: Phoenix Suns x Orlando Magic - 102 117
